@@ -1,5 +1,4438 @@
 {
   "version": 7,
   "updatedAt": "2026-11-19T04:40:00Z",
-  "cheats": []
+  "cheats": [
+    {
+      "id": "gtavi_cash_250k",
+      "gameId": "gta_vi",
+      "category": "Player & Health",
+      "titleEn": "$250,000 Cash",
+      "descriptionEn": "Instantly adds $250,000 to Jason or Lucia’s wallet. Open phone (UP) + hold L1+R1 / LB+RB, then enter sequence.",
+      "titleTranslations": {
+        "ar": "250,000 دولار كاش",
+        "es": "$250,000 de Dinero",
+        "fr": "250 000 $ en espèces",
+        "de": "250.000 $ Bargeld",
+        "it": "250.000 $ in contanti",
+        "pt": "$250.000 em Dinheiro",
+        "da": "$250.000 Kontant",
+        "in": "Uang Tunai $250.000"
+      },
+      "descriptionTranslations": {
+        "ar": "يضيف فوراً 250,000 دولار إلى محفظة جيسون أو لوسيا. افتح الهاتف (فوق) + اضغط باستمرار L1+R1 أو LB+RB ثم أدخل الأزرار.",
+        "es": "Añade al instante $250,000 a la cartera de Jason o Lucía. Abre el móvil (ARRIBA) + mantén L1+R1 / LB+RB.",
+        "fr": "Ajoute instantanément 250 000 $ au portefeuille de Jason ou Lucia. Ouvrez le téléphone (HAUT) + maintenez L1+R1 / LB+RB.",
+        "de": "Fügt Jasons oder Lucias Geldbeutel sofort 250.000 $ hinzu. Handy öffnen (OBEN) + L1+R1 / LB+RB halten.",
+        "it": "Aggiunge subito 250.000 $ al portafoglio di Jason o Lucia. Apri il telefono (SU) + tieni premuto L1+R1 / LB+RB.",
+        "pt": "Adiciona instantaneamente $250.000 à carteira de Jason ou Lucia. Abra o celular (CIMA) + segure L1+R1 / LB+RB.",
+        "da": "Tilføjer straks $250.000 til Jasons eller Lucias pung. Åbn telefonen (OP) + hold L1+R1 / LB+RB.",
+        "in": "Langsung menambahkan $250.000 ke dompet Jason atau Lucia. Buka ponsel (ATAS) + tahan L1+R1 / LB+RB."
+      },
+      "effectWarning": "Unlock: Finish main story • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT"
+        ],
+        "xbox": [
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أنهِ القصة الرئيسية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Completa la historia principal • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Terminer l’histoire principale • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: Hauptstory abschließen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Completa la storia principale • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Conclua a história principal • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Gennemfør hovedhistorien • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Selesaikan cerita utama • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_body_armor",
+      "gameId": "gta_vi",
+      "category": "Player & Health",
+      "titleEn": "Body Armor",
+      "descriptionEn": "Equips full heavy body armor to absorb incoming gunfire and explosions.",
+      "titleTranslations": {
+        "ar": "درع جسدي كامل",
+        "es": "Chaleco Antibalas",
+        "fr": "Gilet Pare-Balles",
+        "de": "Schutzweste",
+        "it": "Giubbotto Antiproiettile",
+        "pt": "Colete Balístico",
+        "da": "Skudsikker Vest",
+        "in": "Pelindung Tubuh Penuh"
+      },
+      "descriptionTranslations": {
+        "ar": "يزودك بدرع جسدي ثقيل كامل لامتصاص الرصاص والانفجارات.",
+        "es": "Equipa blindaje corporal pesado al máximo para absorber disparos y explosiones.",
+        "fr": "Équipe un gilet pare-balles lourd complet pour absorber balles et explosions.",
+        "de": "Rüstet volle schwere Körperpanzerung aus, um Treffer und Explosionen abzufangen.",
+        "it": "Equipaggia una corazza pesante completa per assorbire colpi ed esplosioni.",
+        "pt": "Equipa colete balístico pesado completo para absorver tiros e explosões.",
+        "da": "Udstyrer fuld tung kropspanser til at absorbere skud og eksplosioner.",
+        "in": "Melengkapi pelindung tubuh berat penuh untuk menahan tembakan dan ledakan."
+      },
+      "effectWarning": "Unlock: Complete 100 workouts • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "UP",
+          "UP",
+          "UP",
+          "UP",
+          "UP",
+          "DOWN",
+          "DOWN"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "UP",
+          "UP",
+          "UP",
+          "UP",
+          "UP",
+          "DOWN",
+          "DOWN"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أكمل 100 تمرين رياضي • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Completa 100 entrenamientos • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Terminer 100 entraînements • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 100 Workouts abschließen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Completa 100 allenamenti • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Complete 100 treinos • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Gennemfør 100 træningspas • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Selesaikan 100 latihan olahraga • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_unlimited_focus",
+      "gameId": "gta_vi",
+      "category": "Player & Health",
+      "titleEn": "Unlimited Focus",
+      "descriptionEn": "Keeps Jason & Lucia’s Focus meter permanently full so tactical slow-motion never runs out.",
+      "titleTranslations": {
+        "ar": "تركيز لا نهائي",
+        "es": "Enfoque Ilimitado",
+        "fr": "Concentration Illimitée",
+        "de": "Unbegrenzter Fokus",
+        "it": "Concentrazione Illimitata",
+        "pt": "Foco Ilimitado",
+        "da": "Ubegrænset Fokus",
+        "in": "Fokus Tak Terbatas"
+      },
+      "descriptionTranslations": {
+        "ar": "يبقي عداد التركيز ممتلئاً بشكل دائم لاستخدام التصويب البطيء بلا توقف.",
+        "es": "Mantiene la barra de enfoque siempre llena para que la cámara lenta táctica no se agote.",
+        "fr": "Garde la jauge de concentration pleine en permanence pour le ralenti tactique.",
+        "de": "Hält die Fokus-Anzeige dauerhaft voll, sodass taktische Zeitlupe nie endet.",
+        "it": "Mantiene sempre piena la barra della concentrazione per il rallentatore tattico.",
+        "pt": "Mantém a barra de foco sempre cheia para câmera lenta tática infinita.",
+        "da": "Holder fokusmåleren permanent fuld, så taktisk slowmotion aldrig løber tør.",
+        "in": "Menjaga meter Fokus tetap penuh selamanya agar gerakan lambat taktis tidak habis."
+      },
+      "effectWarning": "Unlock: Finish main story • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "UP",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "UP",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أنهِ القصة الرئيسية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Completa la historia principal • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Terminer l’histoire principale • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: Hauptstory abschließen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Completa la storia principale • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Conclua a história principal • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Gennemfør hovedhistorien • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Selesaikan cerita utama • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_max_ammo",
+      "gameId": "gta_vi",
+      "category": "Weapons & Combat",
+      "titleEn": "Max Ammo",
+      "descriptionEn": "Refills ammunition to maximum capacity for all currently carried weapons.",
+      "titleTranslations": {
+        "ar": "أقصى ذخيرة",
+        "es": "Munición Máxima",
+        "fr": "Munitions au Max",
+        "de": "Maximale Munition",
+        "it": "Munizioni al Massimo",
+        "pt": "Munição Máxima",
+        "da": "Maks Ammunition",
+        "in": "Amunisi Maksimal"
+      },
+      "descriptionTranslations": {
+        "ar": "يعيد تعبئة الذخيرة إلى الحد الأقصى لجميع الأسلحة التي تحملها حالياً.",
+        "es": "Rellena la munición al máximo para todas las armas que llevas equipadas.",
+        "fr": "Remplit les munitions au maximum pour toutes les armes portées.",
+        "de": "Füllt die Munition für alle aktuell getragenen Waffen auf das Maximum auf.",
+        "it": "Ricarica al massimo le munizioni per tutte le armi attualmente equipaggiate.",
+        "pt": "Reabastece a munição ao máximo para todas as armas equipadas.",
+        "da": "Fylder ammunitionen op til maksimum for alle dine nuværende våben.",
+        "in": "Mengisi ulang amunisi hingga kapasitas maksimal untuk semua senjata yang dibawa."
+      },
+      "effectWarning": "Unlock: Win 25 bronze medals at shooting ranges • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "UP",
+          "DOWN",
+          "LEFT"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "UP",
+          "DOWN",
+          "LEFT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اربح 25 ميدالية برونزية في ميادين الرماية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Gana 25 medallas de bronce en galerías de tiro • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Gagner 25 médailles de bronze au stand de tir • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 25 Bronzemedaillen auf Schießständen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Vinci 25 medaglie di bronzo al poligono • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Ganhe 25 medalhas de bronze no estande de tiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Vind 25 bronzemedaljer på skydebaner • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Menangkan 25 medali perunggu di lapangan tembak • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_infinite_ammo",
+      "gameId": "gta_vi",
+      "category": "Weapons & Combat",
+      "titleEn": "Infinite Ammo",
+      "descriptionEn": "Reserve ammunition never depletes when firing any weapon.",
+      "titleTranslations": {
+        "ar": "ذخيرة لا نهائية",
+        "es": "Munición Infinita",
+        "fr": "Munitions Infinies",
+        "de": "Unendliche Munition",
+        "it": "Munizioni Infinite",
+        "pt": "Munição Infinita",
+        "da": "Uendelig Ammunition",
+        "in": "Amunisi Tak Terbatas"
+      },
+      "descriptionTranslations": {
+        "ar": "الذخيرة الاحتياطية لا تنفد أبداً عند إطلاق النار من أي سلاح.",
+        "es": "La munición de reserva nunca se agota al disparar cualquier arma.",
+        "fr": "Les munitions de réserve ne s’épuisent jamais en tirant.",
+        "de": "Reservemunition geht beim Schießen mit keiner Waffe mehr zur Neige.",
+        "it": "Le munizioni di riserva non si esauriscono mai sparando con qualsiasi arma.",
+        "pt": "A munição reserva nunca acaba ao atirar com qualquer arma.",
+        "da": "Reserveammunition slipper aldrig op, uanset hvilket våben du affyrer.",
+        "in": "Amunisi cadangan tidak pernah habis saat menembak dengan senjata apa pun."
+      },
+      "effectWarning": "Unlock: Win 25 silver medals at shooting ranges • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اربح 25 ميدالية فضية في ميادين الرماية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Gana 25 medallas de plata en galerías de tiro • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Gagner 25 médailles d’argent au stand de tir • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 25 Silbermedaillen auf Schießständen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Vinci 25 medaglie d’argento al poligono • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Ganhe 25 medalhas de prata no estande de tiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Vind 25 sølvmedaljer på skydebaner • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Menangkan 25 medali perak di lapangan tembak • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_no_reload",
+      "gameId": "gta_vi",
+      "category": "Weapons & Combat",
+      "titleEn": "No Reload",
+      "descriptionEn": "Weapons fire continuously without ever needing to reload magazines.",
+      "titleTranslations": {
+        "ar": "بدون إعادة تلقيم",
+        "es": "Sin Recarga",
+        "fr": "Sans Rechargement",
+        "de": "Kein Nachladen",
+        "it": "Nessuna Ricarica",
+        "pt": "Sem Recarregar",
+        "da": "Ingen Genladning",
+        "in": "Tanpa Isi Ulang"
+      },
+      "descriptionTranslations": {
+        "ar": "تطلق الأسلحة النار بشكل متواصل دون الحاجة لإعادة تعبئة المخزن أبداً.",
+        "es": "Las armas disparan de forma continua sin tener que recargar cargadores.",
+        "fr": "Les armes tirent en continu sans jamais avoir besoin de recharger.",
+        "de": "Waffen feuern ununterbrochen, ohne jemals nachladen zu müssen.",
+        "it": "Le armi sparano continuamente senza mai dover ricaricare il caricatore.",
+        "pt": "As armas disparam continuamente sem nunca precisar recarregar.",
+        "da": "Våben skyder uafbrudt uden nogensinde at skulle genlades.",
+        "in": "Senjata menembak terus-menerus tanpa perlu mengisi ulang magasin."
+      },
+      "effectWarning": "Unlock: Win 25 gold medals at shooting ranges • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "DOWN",
+          "DOWN",
+          "UP"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "DOWN",
+          "DOWN",
+          "UP"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اربح 25 ميدالية ذهبية في ميادين الرماية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Gana 25 medallas de oro en galerías de tiro • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Gagner 25 médailles d’or au stand de tir • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 25 Goldmedaillen auf Schießständen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Vinci 25 medaglie d’oro al poligono • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Ganhe 25 medalhas de ouro no estande de tiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Vind 25 guldmedaljer på skydebaner • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Menangkan 25 medali emas di lapangan tembak • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_attack_force",
+      "gameId": "gta_vi",
+      "category": "Weapons & Combat",
+      "titleEn": "Attack Force",
+      "descriptionEn": "Bullets and melee strikes pack extreme knockback, launching enemies and objects flying.",
+      "titleTranslations": {
+        "ar": "قوة هجوم خارقة",
+        "es": "Fuerza de Ataque",
+        "fr": "Force d’Attaque",
+        "de": "Angriffskraft",
+        "it": "Forza d’Attacco",
+        "pt": "Força de Ataque",
+        "da": "Angrebskraft",
+        "in": "Kekuatan Serangan"
+      },
+      "descriptionTranslations": {
+        "ar": "الطلقات وضربات القتال اليدوي تقذف الأعداء والأجسام بعيداً بقوة هائلة.",
+        "es": "Las balas y golpes cuerpo a cuerpo lanzan por los aires a los enemigos al impactar.",
+        "fr": "Les balles et coups au corps à corps projettent les cibles violemment.",
+        "de": "Kugeln und Nahkampfschläge schleudern Gegner beim Aufprall durch die Luft.",
+        "it": "Proiettili e colpi corpo a corpo scagliano via nemici e oggetti all’impatto.",
+        "pt": "Balas e golpes corpo a corpo arremessam inimigos longe com o impacto.",
+        "da": "Kugler og nærkampsslag sender mål flyvende ved træf.",
+        "in": "Peluru dan serangan jarak dekat melontarkan musuh terbang saat mengenai sasaran."
+      },
+      "effectWarning": "Unlock: Finish main story • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "DOWN",
+          "UP",
+          "DOWN"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "DOWN",
+          "UP",
+          "DOWN"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أنهِ القصة الرئيسية • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Completa la historia principal • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Terminer l’histoire principale • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: Hauptstory abschließen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Completa la storia principale • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Conclua a história principal • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Gennemfør hovedhistorien • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Selesaikan cerita utama • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_exploding_balls",
+      "gameId": "gta_vi",
+      "category": "Weapons & Combat",
+      "titleEn": "Exploding Balls",
+      "descriptionEn": "All sports balls detonate violently on impact.",
+      "titleTranslations": {
+        "ar": "كرات متفجرة",
+        "es": "Pelotas Explosivas",
+        "fr": "Balles Explosives (Sport)",
+        "de": "Explodierende Bälle",
+        "it": "Palloni Esplosivi",
+        "pt": "Bolas Explosivas",
+        "da": "Eksploderende Bolde",
+        "in": "Bola Meledak"
+      },
+      "descriptionTranslations": {
+        "ar": "جميع الكرات الرياضية تنفجر بقوة عند الاصطدام.",
+        "es": "Todas las pelotas deportivas explotan violentamente al impactar.",
+        "fr": "Tous les ballons et balles de sport explosent violemment à l’impact.",
+        "de": "Alle Sportbälle explodieren heftig beim Aufprall.",
+        "it": "Tutti i palloni sportivi esplodono violentemente all’impatto.",
+        "pt": "Todas as bolas esportivas explodem violentamente no impacto.",
+        "da": "Alle sportsbolde detonerer voldsomt ved sammenstød.",
+        "in": "Semua bola olahraga meledak dahsyat saat membentur sesuatu."
+      },
+      "effectWarning": "Unlock: Hit 20 enemies with explosive damage • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أصِب 20 عدواً بضرر انفجاري • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Impacta a 20 enemigos con daño explosivo • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Toucher 20 ennemis avec des explosifs • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 20 Gegner mit Explosionsschaden treffen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Colpisci 20 nemici con danni esplosivi • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Acerte 20 inimigos com dano explosivo • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Ram 20 fjender med eksplosiv skade • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Serang 20 musuh dengan kerusakan ledakan • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_vehicle_force",
+      "gameId": "gta_vi",
+      "category": "Vehicles",
+      "titleEn": "Vehicle Force",
+      "descriptionEn": "Boosts vehicle impact force so collisions launch traffic and obstacles away effortlessly.",
+      "titleTranslations": {
+        "ar": "قوة تصادم المركبات",
+        "es": "Fuerza Vehicular",
+        "fr": "Force des Véhicules",
+        "de": "Fahrzeug-Wucht",
+        "it": "Forza Veicoli",
+        "pt": "Força Veicular",
+        "da": "Køretøjskraft",
+        "in": "Kekuatan Benturan Kendaraan"
+      },
+      "descriptionTranslations": {
+        "ar": "يعزز قوة اصطدام مركبتك لتدفع السيارات والعوائق بعيداً بسهولة.",
+        "es": "Potencia la fuerza de impacto de tu vehículo para lanzar el tráfico por los aires.",
+        "fr": "Augmente la puissance d’impact des véhicules pour projeter le trafic.",
+        "de": "Erhöht die Aufprallwucht von Fahrzeugen und schleudert den Verkehr beiseite.",
+        "it": "Potenzia la forza d’impatto del veicolo scagliando via il traffico.",
+        "pt": "Aumenta a força de impacto do veículo arremessando carros e obstáculos.",
+        "da": "Øger køretøjets slagkraft, så trafik og forhindringer slynges væk.",
+        "in": "Meningkatkan daya tabrak kendaraan sehingga lalu lintas terpental dengan mudah."
+      },
+      "effectWarning": "Unlock: Kill 25 enemies with vehicles • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "UP",
+          "DOWN"
+        ],
+        "xbox": [
+          "DOWN",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "UP",
+          "DOWN"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اقضِ على 25 عدواً بالمركبات • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Elimina a 25 enemigos con vehículos • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Éliminer 25 ennemis avec des véhicules • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 25 Gegner mit Fahrzeugen ausschalten • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Elimina 25 nemici con i veicoli • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Elimine 25 inimigos com veículos • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Nedlæg 25 fjender med køretøjer • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Kalahkan 25 musuh dengan kendaraan • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_spawn_boomazoom",
+      "gameId": "gta_vi",
+      "category": "Vehicles",
+      "titleEn": "Spawn Maibatsu Boomazoom",
+      "descriptionEn": "Spawns the Maibatsu Boomazoom compact street vehicle right beside you.",
+      "titleTranslations": {
+        "ar": "استدعاء Maibatsu Boomazoom",
+        "es": "Aparecer Maibatsu Boomazoom",
+        "fr": "Faire apparaître Maibatsu Boomazoom",
+        "de": "Maibatsu Boomazoom spawnen",
+        "it": "Genera Maibatsu Boomazoom",
+        "pt": "Gerar Maibatsu Boomazoom",
+        "da": "Spawn Maibatsu Boomazoom",
+        "in": "Munculkan Maibatsu Boomazoom"
+      },
+      "descriptionTranslations": {
+        "ar": "يستدعي سيارة Maibatsu Boomazoom المدمجة بجانبك مباشرة.",
+        "es": "Genera el vehículo compacto Maibatsu Boomazoom justo a tu lado.",
+        "fr": "Fait apparaître la Maibatsu Boomazoom juste à côté de vous.",
+        "de": "Spawnt den kompakten Maibatsu Boomazoom direkt neben dir.",
+        "it": "Genera il veicolo compatto Maibatsu Boomazoom proprio accanto a te.",
+        "pt": "Gera o veículo compacto Maibatsu Boomazoom bem ao seu lado.",
+        "da": "Spawner den kompakte Maibatsu Boomazoom lige ved siden af dig.",
+        "in": "Memunculkan kendaraan kompak Maibatsu Boomazoom tepat di samping Anda."
+      },
+      "previewImageUrl": "asset://boomazoom",
+      "vehicleStats": {
+        "vehicleClass": "Compact Street",
+        "speed": 78,
+        "armor": 45,
+        "handling": 88,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "effectWarning": "Unlock: Complete 5 shopping challenges • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "LEFT"
+        ],
+        "xbox": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "LEFT",
+          "UP",
+          "LEFT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: أكمل 5 تحديات تسوق • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Completa 5 desafíos de compras • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Terminer 5 défis shopping • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 5 Shopping-Herausforderungen abschließen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Completa 5 sfide di shopping • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Complete 5 desafios de compras • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Gennemfør 5 shoppingudfordringer • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Selesaikan 5 tantangan belanja • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_spawn_bulldozer",
+      "gameId": "gta_vi",
+      "category": "Vehicles",
+      "titleEn": "Spawn HVY Bulldozer",
+      "descriptionEn": "Spawns the heavy industrial HVY Bulldozer with articulated front scoop.",
+      "titleTranslations": {
+        "ar": "استدعاء جرافة HVY Bulldozer",
+        "es": "Aparecer HVY Bulldozer",
+        "fr": "Faire apparaître HVY Bulldozer",
+        "de": "HVY Bulldozer spawnen",
+        "it": "Genera HVY Bulldozer",
+        "pt": "Gerar HVY Bulldozer",
+        "da": "Spawn HVY Bulldozer",
+        "in": "Munculkan HVY Bulldozer"
+      },
+      "descriptionTranslations": {
+        "ar": "يستدعي الجرافة الصناعية الثقيلة HVY Bulldozer مع شفرة أمامية متحركة.",
+        "es": "Genera la excavadora industrial pesada HVY Bulldozer con pala frontal articulada.",
+        "fr": "Fait apparaître le lourd bulldozer industriel HVY avec godet articulé.",
+        "de": "Spawnt den schweren HVY Bulldozer mit beweglicher Frontschaufel.",
+        "it": "Genera il pesante bulldozer industriale HVY con benna frontale articolata.",
+        "pt": "Gera o trator industrial pesado HVY Bulldozer com pá frontal articulada.",
+        "da": "Spawner den tunge industrielle HVY Bulldozer med bevægelig frontskovl.",
+        "in": "Memunculkan buldoser industri berat HVY Bulldozer dengan sekop depan."
+      },
+      "previewImageUrl": "asset://bulldozer",
+      "vehicleStats": {
+        "vehicleClass": "Heavy Utility",
+        "speed": 42,
+        "armor": 92,
+        "handling": 52,
+        "weaponry": "Front Loader Scoop",
+        "seats": 1,
+        "archetype": "truck"
+      },
+      "effectWarning": "Unlock: Discover HVY Bulldozer in Progress menu • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "DOWN"
+        ],
+        "xbox": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "DOWN"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اكتشف HVY Bulldozer في قائمة التقدم • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Descubre HVY Bulldozer en el menú Progreso • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Découvrir le HVY Bulldozer dans Progression • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: HVY Bulldozer im Fortschrittsmenü entdecken • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Scopri HVY Bulldozer nel menu Progressi • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Descubra o HVY Bulldozer no menu Progresso • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Find HVY Bulldozer i Progress-menuen • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Temukan HVY Bulldozer di menu Progress • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_spawn_pumper",
+      "gameId": "gta_vi",
+      "category": "Vehicles",
+      "titleEn": "Spawn MTL Pumper",
+      "descriptionEn": "Spawns the MTL Pumper emergency fire truck equipped with a roof water cannon.",
+      "titleTranslations": {
+        "ar": "استدعاء شاحنة الإطفاء MTL Pumper",
+        "es": "Aparecer MTL Pumper",
+        "fr": "Faire apparaître MTL Pumper",
+        "de": "MTL Pumper spawnen",
+        "it": "Genera MTL Pumper",
+        "pt": "Gerar MTL Pumper",
+        "da": "Spawn MTL Pumper",
+        "in": "Munculkan MTL Pumper"
+      },
+      "descriptionTranslations": {
+        "ar": "يستدعي شاحنة الإطفاء MTL Pumper المزودة بمدفع مائي على السقف.",
+        "es": "Genera el camión de bomberos MTL Pumper equipado con cañón de agua.",
+        "fr": "Fait apparaître le camion de pompiers MTL Pumper avec canon à eau.",
+        "de": "Spawnt das MTL Pumper Feuerwehrfahrzeug mit Wasserwerfer auf dem Dach.",
+        "it": "Genera l’autopompa MTL Pumper dotata di cannone ad acqua sul tetto.",
+        "pt": "Gera o caminhão de bombeiros MTL Pumper equipado com canhão de água.",
+        "da": "Spawner brandbilen MTL Pumper udstyret med tagmonteret vandkanon.",
+        "in": "Memunculkan truk pemadam MTL Pumper yang dilengkapi meriam air di atap."
+      },
+      "previewImageUrl": "asset://pumper",
+      "vehicleStats": {
+        "vehicleClass": "Emergency Fire Truck",
+        "speed": 68,
+        "armor": 85,
+        "handling": 60,
+        "weaponry": "Roof Water Cannon",
+        "seats": 4,
+        "archetype": "truck"
+      },
+      "effectWarning": "Unlock: Discover MTL Pumper in Progress menu • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "LEFT",
+          "UP",
+          "RIGHT",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "UP"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اكتشف MTL Pumper في قائمة التقدم • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Descubre MTL Pumper en el menú Progreso • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Découvrir le MTL Pumper dans Progression • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: MTL Pumper im Fortschrittsmenü entdecken • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Scopri MTL Pumper nel menu Progressi • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Descubra o MTL Pumper no menu Progresso • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Find MTL Pumper i Progress-menuen • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Temukan MTL Pumper di menu Progress • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_raise_heat",
+      "gameId": "gta_vi",
+      "category": "Wanted Level",
+      "titleEn": "Raise Heat Level",
+      "descriptionEn": "Increases your active police heat / wanted pressure across Leonida.",
+      "titleTranslations": {
+        "ar": "رفع مستوى المطاردة",
+        "es": "Subir Nivel de Búsqueda",
+        "fr": "Augmenter la Recherche",
+        "de": "Fahndungslevel erhöhen",
+        "it": "Aumenta Livello Sospetto",
+        "pt": "Aumentar Nível de Procurado",
+        "da": "Øg Eftersøgningsniveau",
+        "in": "Naikkan Level Buronan"
+      },
+      "descriptionTranslations": {
+        "ar": "يرفع مستوى المطاردة وضغط الشرطة النشط في ليونيدا.",
+        "es": "Aumenta la presión y el nivel de búsqueda policial en Leonida.",
+        "fr": "Augmente l’indice de recherche policière à travers Leonida.",
+        "de": "Erhöht den aktiven Fahndungsdruck der Polizei in Leonida.",
+        "it": "Aumenta il livello di sospetto e la pressione della polizia a Leonida.",
+        "pt": "Aumenta o nível de procurado e a perseguição policial em Leonida.",
+        "da": "Øger politiets eftersøgningstryk på tværs af Leonida.",
+        "in": "Meningkatkan tekanan kejaran dan level buronan polisi di seluruh Leonida."
+      },
+      "effectWarning": "Unlock: Lose a 3-star wanted level 25 times • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP"
+        ],
+        "xbox": [
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "DOWN",
+          "UP",
+          "DOWN",
+          "UP"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اهرب من مطاردة 3 نجوم 25 مرة • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Pierde un nivel de búsqueda de 3 estrellas 25 veces • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Semer un indice de recherche de 3 étoiles 25 fois • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 25-mal ein 3-Sterne-Fahndungslevel abschütteln • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Seminare un livello di sospetto a 3 stelle 25 volte • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Perca um nível de procurado de 3 estrelas 25 vezes • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Slip af med 3-stjernet efterlysning 25 gange • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Hilangkan level buronan 3 bintang sebanyak 25 kali • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_cycle_weather",
+      "gameId": "gta_vi",
+      "category": "World & Weather",
+      "titleEn": "Cycle Weather",
+      "descriptionEn": "Rotates through Leonida weather presets (sunny, tropical storm, overcast, foggy, clear).",
+      "titleTranslations": {
+        "ar": "تغيير الطقس",
+        "es": "Cambiar el Clima",
+        "fr": "Changer la Météo",
+        "de": "Wetter wechseln",
+        "it": "Cambia Meteo",
+        "pt": "Alternar Clima",
+        "da": "Skift Vejr",
+        "in": "Ganti Cuaca"
+      },
+      "descriptionTranslations": {
+        "ar": "يتنقل بين حالات الطقس في ليونيدا (مشمس، عاصفة استوائية، غائم، ضبابي، صافي).",
+        "es": "Cambia entre los climas de Leonida (soleado, tormenta tropical, nublado, niebla).",
+        "fr": "Fait défiler les conditions météo de Leonida (soleil, tempête, brouillard).",
+        "de": "Wechselt durch Leonidas Wetterlagen (Sonnig, Tropensturm, Nebel, Klar).",
+        "it": "Scorre tra le condizioni meteo di Leonida (sole, tempesta tropicale, nebbia).",
+        "pt": "Alterna entre os climas de Leonida (ensolarado, tempestade tropical, neblina).",
+        "da": "Skifter mellem Leonidas vejrtyper (sol, tropisk storm, tåge, klart).",
+        "in": "Mengubah pola cuaca Leonida (cerah, badai tropis, mendung, berkabut)."
+      },
+      "effectWarning": "Unlock: Reveal the entire map • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اكشف الخريطة بالكامل • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Revela todo el mapa • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Découvrir toute la carte • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: Gesamte Karte aufdecken • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Rivela l’intera mappa • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Revele o mapa inteiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Afslør hele kortet • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Buka seluruh peta • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_filter_dollhouse",
+      "gameId": "gta_vi",
+      "category": "Special / Fun",
+      "titleEn": "Dollhouse Screen Filter",
+      "descriptionEn": "Applies a vivid saturated screen filter with a stylized narrow aspect ratio.",
+      "titleTranslations": {
+        "ar": "فلتر شاشة Dollhouse",
+        "es": "Filtro de Pantalla Dollhouse",
+        "fr": "Filtre Écran Dollhouse",
+        "de": "Dollhouse-Bildschirmfilter",
+        "it": "Filtro Schermo Dollhouse",
+        "pt": "Filtro de Tela Dollhouse",
+        "da": "Dollhouse Skærmfilter",
+        "in": "Filter Layar Dollhouse"
+      },
+      "descriptionTranslations": {
+        "ar": "يطبق فلتراً لونياً زاهياً مع نسبة عرض شاشة ضيقة أنيقة.",
+        "es": "Aplica un filtro de colores vivos con una relación de aspecto estrecha estilizada.",
+        "fr": "Applique un filtre aux couleurs vives avec un ratio d’image resserré.",
+        "de": "Aktiviert einen knalligen Farbfilter mit schmalem Bildformat.",
+        "it": "Applica un filtro dai colori vividi con un formato schermo stretto stilizzato.",
+        "pt": "Aplica um filtro de cores vibrantes com proporção de tela estreita.",
+        "da": "Tilføjer et farvemættet filter med et stiliseret smalt billedformat.",
+        "in": "Menerapkan filter warna cerah dengan rasio aspek layar sempit yang unik."
+      },
+      "effectWarning": "Unlock: Spend 8 hours hanging out with your partner • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "DOWN",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "DOWN",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اقضِ 8 ساعات مع شريكك • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Pasa 8 horas saliendo con tu pareja • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Passer 8 heures avec votre partenaire • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 8 Stunden mit dem Partner verbringen • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Trascorri 8 ore insieme al tuo partner • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Passe 8 horas saindo com seu parceiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Tilbring 8 timer sammen med din partner • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Habiskan 8 jam bersama pasangan Anda • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_filter_cataclysm",
+      "gameId": "gta_vi",
+      "category": "Special / Fun",
+      "titleEn": "Cataclysm Screen Filter",
+      "descriptionEn": "Fills the world atmosphere with dense murky apocalyptic smoke and haze.",
+      "titleTranslations": {
+        "ar": "فلتر شاشة Cataclysm",
+        "es": "Filtro de Pantalla Cataclysm",
+        "fr": "Filtre Écran Cataclysm",
+        "de": "Cataclysm-Bildschirmfilter",
+        "it": "Filtro Schermo Cataclysm",
+        "pt": "Filtro de Tela Cataclysm",
+        "da": "Cataclysm Skærmfilter",
+        "in": "Filter Layar Cataclysm"
+      },
+      "descriptionTranslations": {
+        "ar": "يملأ أجواء العالم بدخان وضباب كثيف بأجواء نهاية العالم.",
+        "es": "Llena la atmósfera del mundo con un denso humo y neblina apocalíptica.",
+        "fr": "Remplit l’atmosphère d’une épaisse fumée sombre et brumeuse.",
+        "de": "Hüllt die Spielwelt in dichten, düsteren Rauch und Dunst.",
+        "it": "Riempie l’atmosfera del mondo con denso fumo cupo e foschia.",
+        "pt": "Preenche a atmosfera do mundo com fumaça densa e névoa sombria.",
+        "da": "Fylder spillets atmosfære med tæt, dyster røg og dis.",
+        "in": "Mengisi atmosfer dunia dengan kabut asap tebal yang suram."
+      },
+      "effectWarning": "Unlock: Discover Martha’s Vamos in Progress menu • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اكتشف سيارة Martha’s Vamos في قائمة التقدم • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Descubre el Vamos de Martha en el menú Progreso • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Découvrir la Vamos de Martha dans Progression • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: Marthas Vamos im Fortschrittsmenü entdecken • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Scopri la Vamos di Martha nel menu Progressi • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Descubra o Vamos da Martha no menu Progresso • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Find Martha’s Vamos i Progress-menuen • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Temukan Martha’s Vamos di menu Progress • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtavi_filter_faded_glory",
+      "gameId": "gta_vi",
+      "category": "Special / Fun",
+      "titleEn": "Faded Glory Screen Filter",
+      "descriptionEn": "Applies a nostalgic retro color CRT television scanline filter over gameplay.",
+      "titleTranslations": {
+        "ar": "فلتر شاشة Faded Glory",
+        "es": "Filtro de Pantalla Faded Glory",
+        "fr": "Filtre Écran Faded Glory",
+        "de": "Faded-Glory-Bildschirmfilter",
+        "it": "Filtro Schermo Faded Glory",
+        "pt": "Filtro de Tela Faded Glory",
+        "da": "Faded Glory Skærmfilter",
+        "in": "Filter Layar Faded Glory"
+      },
+      "descriptionTranslations": {
+        "ar": "يطبق فلتر تلفاز CRT الكلاسيكي القديم مع خطوط المسح على الشاشة.",
+        "es": "Aplica un filtro retro de televisor CRT en color con líneas de escaneo.",
+        "fr": "Applique un filtre rétro de télévision CRT couleur avec lignes de balayage.",
+        "de": "Aktiviert einen nostalgischen Farb-Röhrenfernseher-Filter.",
+        "it": "Applica un filtro retrò stile TV CRT a colori durante il gioco.",
+        "pt": "Aplica um filtro retrô de TV CRT colorida sobre a tela do jogo.",
+        "da": "Tilføjer et nostalgisk farve-CRT-fjernsynsfilter over spillet.",
+        "in": "Menerapkan filter TV tabung CRT berwarna retro klasik pada layar game."
+      },
+      "effectWarning": "Unlock: Rob 50 stores with your partner • Disables saving & trophies/achievements",
+      "isNewOrUpdated": true,
+      "isVerified": true,
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "LEFT",
+          "RIGHT"
+        ],
+        "xbox": [
+          "DOWN",
+          "DOWN",
+          "UP",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "LEFT",
+          "LEFT",
+          "RIGHT"
+        ]
+      },
+      "effectWarningTranslations": {
+        "ar": "الفتح: اسرق 50 متجراً مع شريكك • يعطل الحفظ والإنجازات",
+        "es": "Desbloqueo: Atraca 50 tiendas con tu pareja • Deshabilita guardado y trofeos/logros",
+        "fr": "Déblocage : Braquer 50 magasins avec votre partenaire • Désactive sauvegarde et trophées/succès",
+        "de": "Freischaltung: 50 Läden gemeinsam mit dem Partner ausrauben • Deaktiviert Speichern & Trophäen/Erfolge",
+        "it": "Sblocco: Rapina 50 negozi con il tuo partner • Disabilita salvataggi e trofei/obiettivi",
+        "pt": "Desbloqueio: Assalte 50 lojas com seu parceiro • Desativa salvamento e troféus/conquistas",
+        "da": "Lås op: Røv 50 butikker sammen med din partner • Slår gemning og trofæer/præstationer fra",
+        "in": "Buka: Rampok 50 toko bersama pasangan Anda • Menonaktifkan penyimpanan & trofi/pencapaian"
+      }
+    },
+    {
+      "id": "gtav_all_weapons",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Give Weapons",
+      "descriptionEn": "Grants Assault Rifle, SMG, Sniper Rifle, RPG, Grenades, Shotgun, Knife, and extra ammo.",
+      "titleTranslations": {
+        "ar": "إعطاء جميع الأسلحة",
+        "es": "Obtener Todas las Armas",
+        "pt": "Dar Todas as Armas",
+        "fr": "Donner Toutes les Armes",
+        "de": "Alle Waffen erhalten",
+        "da": "Giv Alle Våben",
+        "in": "Beri Semua Senjata",
+        "it": "Ottieni Tutte le Armi"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "TRIANGLE",
+          "R2",
+          "LEFT",
+          "L1",
+          "CROSS",
+          "RIGHT",
+          "TRIANGLE",
+          "DOWN",
+          "SQUARE",
+          "L1",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "Y",
+          "RT",
+          "LEFT",
+          "LB",
+          "A",
+          "RIGHT",
+          "Y",
+          "DOWN",
+          "X",
+          "LB",
+          "LB",
+          "LB"
+        ],
+        "pc": "TOOLUP",
+        "phone": "1-999-8665-87"
+      },
+      "descriptionTranslations": {
+        "ar": "يمنحك بندقية هجومية ورشاش وقناصة وقاذف صواريخ وقنابل وشوزن وسكين وذخيرة إضافية.",
+        "es": "Otorga rifle de asalto, subfusil, rifle de francotirador, RPG, granadas, escopeta, cuchillo y munición extra.",
+        "fr": "Donne fusil d'assaut, mitraillette, fusil de précision, RPG, grenades, fusil à pompe, couteau et munitions supplémentaires.",
+        "de": "Gibt Sturmgewehr, MP, Scharfschützengewehr, RPG, Granaten, Schrotflinte, Messer und Extra-Munition.",
+        "it": "Fornisce fucile d'assalto, mitra, fucile da cecchino, RPG, granate, fucile a pompa, coltello e munizioni extra.",
+        "pt": "Concede rifle de assalto, submetralhadora, rifle de precisão, RPG, granadas, espingarda, faca e munição extra.",
+        "da": "Giver automatriffel, maskinpistol, snigskytteriffel, RPG, granater, haglgevær, kniv og ekstra ammunition.",
+        "in": "Memberikan senapan serbu, SMG, senapan runduk, RPG, granat, shotgun, pisau, dan amunisi ekstra."
+      }
+    },
+    {
+      "id": "gtav_max_health_armor",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Max Health + Armor",
+      "descriptionEn": "Refills health and body armor to 100% and repairs your current vehicle.",
+      "titleTranslations": {
+        "ar": "صحة كاملة + درع كامل",
+        "es": "Salud y Blindaje al Máximo",
+        "pt": "Vida e Colete no Máximo",
+        "fr": "Santé et Armure au Max",
+        "de": "Maximale Gesundheit + Rüstung",
+        "da": "Fuldt Helbred + Panser",
+        "in": "Kesehatan & Pelindung Penuh",
+        "it": "Salute e Armatura al Massimo"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "L1",
+          "TRIANGLE",
+          "R2",
+          "CROSS",
+          "SQUARE",
+          "CIRCLE",
+          "RIGHT",
+          "SQUARE",
+          "L1",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "B",
+          "LB",
+          "Y",
+          "RT",
+          "A",
+          "X",
+          "B",
+          "RIGHT",
+          "X",
+          "LB",
+          "LB",
+          "LB"
+        ],
+        "pc": "TURTLE",
+        "phone": "1-999-887-853"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد الصحة والدرع إلى 100% ويصلح مركبتك الحالية بالكامل.",
+        "es": "Restaura la salud y el blindaje al 100% y repara tu vehículo actual.",
+        "fr": "Restaure la santé et l'armure à 100% et répare votre véhicule actuel.",
+        "de": "Füllt Gesundheit und Panzerung auf 100% auf und repariert dein aktuelles Fahrzeug.",
+        "it": "Ripristina salute e armatura al 100% e ripara il tuo veicolo attuale.",
+        "pt": "Restaura a vida e o colete para 100% e repara seu veículo atual.",
+        "da": "Gendanner fuldt helbred og kropspanser til 100% og reparerer dit køretøj.",
+        "in": "Memulihkan kesehatan dan pelindung tubuh ke 100% serta memperbaiki kendaraan Anda saat ini."
+      }
+    },
+    {
+      "id": "gtav_invincibility",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Invincibility For 5 Minutes",
+      "descriptionEn": "Makes your character completely immune to all damage for 5 minutes.",
+      "titleTranslations": {
+        "ar": "الخلود لمدة 5 دقائق",
+        "es": "Invencibilidad por 5 Minutos",
+        "pt": "Invencibilidade por 5 Minutos",
+        "fr": "Invincibilité pendant 5 minutes",
+        "de": "Unbesiegbarkeit für 5 Minuten",
+        "da": "Usårlighed i 5 Minutter",
+        "in": "Kebal Selama 5 Menit",
+        "it": "Invincibilità per 5 Minuti"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "RIGHT",
+          "CROSS",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "R1",
+          "RIGHT",
+          "LEFT",
+          "CROSS",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "RIGHT",
+          "A",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "RB",
+          "RIGHT",
+          "LEFT",
+          "A",
+          "Y"
+        ],
+        "pc": "PAINKILLER",
+        "phone": "1-999-724-654-5537"
+      },
+      "descriptionTranslations": {
+        "ar": "يجعل شخصيتك محصنة تماماً من جميع الأضرار لمدة 5 دقائق كاملة.",
+        "es": "Hace que tu personaje sea completamente inmune a todo daño durante 5 minutos.",
+        "fr": "Rend votre personnage complètement insensible à tous les dégâts pendant 5 minutes.",
+        "de": "Macht deinen Charakter 5 Minuten lang absolut unverwundbar gegen jeden Schaden.",
+        "it": "Rende il tuo personaggio completamente immune a qualsiasi danno per 5 minuti.",
+        "pt": "Torna seu personagem completamente imune a todo dano por 5 minutos.",
+        "da": "Gør din karakter fuldstændig immun over for al skade i 5 minutter.",
+        "in": "Membuat karakter Anda kebal sepenuhnya dari segala kerusakan selama 5 menit."
+      }
+    },
+    {
+      "id": "gtav_lower_wanted",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Lower Wanted Level",
+      "descriptionEn": "Decreases Wanted Level By One Star",
+      "titleTranslations": {
+        "ar": "تخفيض مستوى المطاردة (نجمة واحدة)",
+        "es": "Bajar Nivel de Búsqueda",
+        "pt": "Diminuir Nível de Procurado",
+        "fr": "Baisser l'Indice de Recherche",
+        "de": "Fahndungslevel senken",
+        "da": "Sænk Eftersøgningsniveau",
+        "in": "Turunkan Level Buronan",
+        "it": "Abbassa Livello di Sospetto"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R1",
+          "CIRCLE",
+          "R2",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT"
+        ],
+        "xbox": [
+          "RB",
+          "RB",
+          "B",
+          "RT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT"
+        ],
+        "pc": "LAWYERUP",
+        "phone": "1-999-5299-3787"
+      },
+      "descriptionTranslations": {
+        "ar": "يقلل مستوى المطاردة بنجمة واحدة فوراً.",
+        "es": "Reduce el nivel de búsqueda en una estrella de inmediato.",
+        "fr": "Diminue le niveau de recherche d'une étoile immédiatement.",
+        "de": "Verringert den Fahndungslevel um einen Stern.",
+        "it": "Riduce il livello di sospetto di una stella immediatamente.",
+        "pt": "Diminui o nível de procurado em uma estrela imediatamente.",
+        "da": "Sænker eftersøgningsniveauet med én stjerne.",
+        "in": "Menurunkan level buronan sebanyak satu bintang."
+      }
+    },
+    {
+      "id": "gtav_raise_wanted",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Raise Wanted Level",
+      "descriptionEn": "Increases Wanted Level By One Star",
+      "titleTranslations": {
+        "ar": "رفع مستوى المطاردة (نجمة واحدة)",
+        "es": "Subir Nivel de Búsqueda",
+        "pt": "Aumentar Nível de Procurado",
+        "da": "Øg Eftersøgningsniveau",
+        "de": "Fahndungslevel erhöhen",
+        "fr": "Augmenter l’Indice de Recherche",
+        "in": "Naikkan Level Buronan",
+        "it": "Aumenta Livello di Sospetto"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R1",
+          "CIRCLE",
+          "R2",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT"
+        ],
+        "xbox": [
+          "RB",
+          "RB",
+          "B",
+          "RT",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT"
+        ],
+        "pc": "FUGITIVE",
+        "phone": "1-999-3844-8483"
+      },
+      "descriptionTranslations": {
+        "ar": "يرفع مستوى المطاردة بنجمة واحدة فوراً.",
+        "es": "Aumenta el nivel de búsqueda en una estrella de inmediato.",
+        "fr": "Augmente le niveau de recherche d'une étoile immédiatement.",
+        "de": "Erhöht den Fahndungslevel um einen Stern.",
+        "it": "Aumenta il livello di sospetto di una stella immediatamente.",
+        "pt": "Aumenta o nível de procurado em uma estrela imediatamente.",
+        "da": "Øger eftersøgningsniveauet med én stjerne.",
+        "in": "Menaikkan level buronan sebanyak satu bintang."
+      }
+    },
+    {
+      "id": "gtav_super_jump",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Super Jump",
+      "descriptionEn": "Hold Square / X to jump very high into the air.",
+      "titleTranslations": {
+        "ar": "القفزة الخارقة",
+        "es": "Súper Salto",
+        "pt": "Super Pulo",
+        "da": "Superhop",
+        "de": "Supersprung",
+        "fr": "Super Saut",
+        "in": "Lompatan Super",
+        "it": "Super Salto"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "LEFT",
+          "TRIANGLE",
+          "TRIANGLE",
+          "RIGHT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "SQUARE",
+          "R1",
+          "R2"
+        ],
+        "xbox": [
+          "LEFT",
+          "LEFT",
+          "Y",
+          "Y",
+          "RIGHT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "X",
+          "RB",
+          "RT"
+        ],
+        "pc": "HOPTOIT",
+        "phone": "1-999-467-86-48"
+      },
+      "descriptionTranslations": {
+        "ar": "اضغط مع الاستمرار على زر القفز للقفز عالياً جداً في الهواء.",
+        "es": "Mantén presionado Cuadrado / X para saltar muy alto en el aire.",
+        "fr": "Maintenez Carré / X pour sauter très haut dans les airs.",
+        "de": "Halte Quadrat / X gedrückt, um extrem hoch in die Luft zu springen.",
+        "it": "Tieni premuto Quadrato / X per saltare molto in alto nell'aria.",
+        "pt": "Segure Quadrado / X para pular muito alto no ar.",
+        "da": "Hold Firkant / X nede for at hoppe meget højt op i luften.",
+        "in": "Tahan Kotak / X untuk melompat sangat tinggi ke udara."
+      }
+    },
+    {
+      "id": "gtav_explosive_ammo",
+      "gameId": "gta_v",
+      "category": "Weapons & Combat",
+      "titleEn": "Explosive Ammo Rounds (Bang Bang)",
+      "descriptionEn": "Bullets explode upon impact with any surface or vehicle.",
+      "titleTranslations": {
+        "ar": "رصاص متفجر (Bang Bang)",
+        "es": "Balas Explosivas (Bang Bang)",
+        "pt": "Munição Explosiva",
+        "da": "Eksplosiv Ammunition (Bang Bang)",
+        "de": "Explosive Munition (Bang Bang)",
+        "fr": "Munitions Explosives (Bang Bang)",
+        "in": "Amunisi Peledak (Bang Bang)",
+        "it": "Munizioni Esplosive (Bang Bang)"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "RIGHT",
+          "SQUARE",
+          "CROSS",
+          "LEFT",
+          "R1",
+          "R2",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "L1",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "RIGHT",
+          "X",
+          "A",
+          "LEFT",
+          "RB",
+          "RT",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "LB",
+          "LB",
+          "LB"
+        ],
+        "pc": "HIGHEX",
+        "phone": "1-999-444-439"
+      },
+      "descriptionTranslations": {
+        "ar": "تنفجر الرصاصات فور اصطدامها بأي سطح أو مركبة.",
+        "es": "Las balas explotan al impactar con cualquier superficie o vehículo.",
+        "fr": "Les balles explosent à l'impact avec toute surface ou véhicule.",
+        "de": "Kugeln explodieren beim Aufprall auf Oberflächen oder Fahrzeuge.",
+        "it": "I proiettili esplodono all'impatto con qualsiasi superficie o veicolo.",
+        "pt": "As balas explodem ao atingir qualquer superfície ou veículo.",
+        "da": "Kugler eksploderer ved kontakt med enhver overflade eller køretøj.",
+        "in": "Peluru meledak saat mengenai permukaan atau kendaraan apa pun."
+      }
+    },
+    {
+      "id": "gtav_flaming_bullets",
+      "gameId": "gta_v",
+      "category": "Weapons & Combat",
+      "titleEn": "Flaming Bullets",
+      "descriptionEn": "Your bullets set targets on fire upon impact.",
+      "titleTranslations": {
+        "ar": "رصاص ناري حارق",
+        "es": "Balas Incendiarias",
+        "pt": "Balas Incendiárias",
+        "da": "Brændende Kugler",
+        "de": "Brandmunition",
+        "fr": "Balles Enflammées",
+        "in": "Peluru Api",
+        "it": "Proiettili Infuocati"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "L1",
+          "R1",
+          "SQUARE",
+          "R1",
+          "LEFT",
+          "R2",
+          "R1",
+          "LEFT",
+          "SQUARE",
+          "RIGHT",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "LB",
+          "RB",
+          "X",
+          "RB",
+          "LEFT",
+          "RT",
+          "RB",
+          "LEFT",
+          "X",
+          "RIGHT",
+          "LB",
+          "LB"
+        ],
+        "pc": "INCENDIARY",
+        "phone": "1-999-462-363-4279"
+      },
+      "descriptionTranslations": {
+        "ar": "تشعل رصاصاتك النيران في الأهداف عند إصابتها.",
+        "es": "Tus balas prenden fuego a los objetivos al impactar.",
+        "fr": "Vos balles enflamment les cibles à l'impact.",
+        "de": "Deine Kugeln setzen Ziele beim Einschlag in Brand.",
+        "it": "I tuoi proiettili incendiano i bersagli all'impatto.",
+        "pt": "Suas balas incendeiam os alvos no impacto.",
+        "da": "Dine kugler antænder mål ved anslag.",
+        "in": "Peluru Anda membakar target saat mengenai sasaran."
+      }
+    },
+    {
+      "id": "gtav_explosive_melee",
+      "gameId": "gta_v",
+      "category": "Weapons & Combat",
+      "titleEn": "Explosive Melee Attacks",
+      "descriptionEn": "Punches and kicks trigger explosions on impact.",
+      "titleTranslations": {
+        "ar": "لكمات يدوية متفجرة",
+        "es": "Puñetazos Explosivos",
+        "pt": "Socos Explosivos",
+        "da": "Eksplosive Nærkampsangreb",
+        "de": "Explosive Nahkampfangriffe",
+        "fr": "Attaques au Corps à Corps Explosives",
+        "in": "Serangan Jarak Dekat Peledak",
+        "it": "Attacchi Corpo a Corpo Esplosivi"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "RIGHT",
+          "LEFT",
+          "CROSS",
+          "TRIANGLE",
+          "R1",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "L2"
+        ],
+        "xbox": [
+          "RIGHT",
+          "LEFT",
+          "A",
+          "Y",
+          "RB",
+          "B",
+          "B",
+          "B",
+          "LT"
+        ],
+        "pc": "HOTHANDS",
+        "phone": "1-999-4684-2637"
+      },
+      "descriptionTranslations": {
+        "ar": "اللكمات والركلات تطلق انفجارات مدمرة عند إصابة الهدف.",
+        "es": "Los puñetazos y patadas provocan explosiones al impactar.",
+        "fr": "Les coups de poing et de pied déclenchent des explosions à l'impact.",
+        "de": "Schläge und Tritte lösen beim Aufprall Explosionen aus.",
+        "it": "Pugni e calci innescano esplosioni all'impatto.",
+        "pt": "Socos e chutes provocam explosões ao atingir o alvo.",
+        "da": "Slag og spark udløser eksplosioner ved træf.",
+        "in": "Pukulan dan tendangan memicu ledakan saat mengenai sasaran."
+      }
+    },
+    {
+      "id": "gtav_give_parachute",
+      "gameId": "gta_v",
+      "category": "Player & Health",
+      "titleEn": "Give Parachute",
+      "descriptionEn": "Equips a skydiving parachute immediately.",
+      "titleTranslations": {
+        "ar": "الحصول على مظلة (باراشوت)",
+        "es": "Obtener Paracaídas",
+        "pt": "Ganhar Paraquedas",
+        "da": "Giv Faldskærm",
+        "de": "Fallschirm erhalten",
+        "fr": "Obtenir un Parachute",
+        "in": "Dapatkan Parasut",
+        "it": "Ottieni Paracadute"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "RIGHT",
+          "L1",
+          "L2",
+          "R1",
+          "R2",
+          "R2",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "L1"
+        ],
+        "xbox": [
+          "LEFT",
+          "RIGHT",
+          "LB",
+          "LT",
+          "RB",
+          "RT",
+          "RT",
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "LB"
+        ],
+        "pc": "SKYDIVE",
+        "phone": "1-999-759-3483"
+      },
+      "descriptionTranslations": {
+        "ar": "يزود شخصيتك بمظلة هبوط فورية للقفز المظلي.",
+        "es": "Equipa un paracaídas de caída libre de inmediato.",
+        "fr": "Équipe immédiatement un parachute de saut en chute libre.",
+        "de": "Rüstet sofort einen Fallschirm für Fallschirmsprünge aus.",
+        "it": "Equipaggia immediatamente un paracadute da lancio.",
+        "pt": "Equipa um paraquedas de salto imediatamente.",
+        "da": "Udruster straks faldskærm til udspring.",
+        "in": "Langsung melengkapi parasut terjun payung."
+      }
+    },
+    {
+      "id": "gtav_spawn_bmx",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn BMX",
+      "descriptionEn": "Spawns a stunt BMX bicycle.",
+      "titleTranslations": {
+        "ar": "استدعاء دراجة هوائية BMX",
+        "es": "Aparecer Bicicleta BMX",
+        "pt": "Gerar Bicicleta BMX",
+        "da": "Spawn BMX",
+        "de": "BMX spawnen",
+        "fr": "Faire apparaître un BMX",
+        "in": "Munculkan BMX",
+        "it": "Genera BMX"
+      },
+      "previewImageUrl": "asset://bmx",
+      "vehicleStats": {
+        "vehicleClass": "Stunt Bicycle",
+        "speed": 55,
+        "armor": 25,
+        "handling": 96,
+        "weaponry": "Bunny Hop Stunts",
+        "seats": 1,
+        "archetype": "bike"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "SQUARE",
+          "CIRCLE",
+          "TRIANGLE",
+          "R1",
+          "R2"
+        ],
+        "xbox": [
+          "LEFT",
+          "LEFT",
+          "RIGHT",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "X",
+          "B",
+          "Y",
+          "RB",
+          "RT"
+        ],
+        "pc": "BANDIT",
+        "phone": "1-999-226-348"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن دراجة هوائية بهلوانية من نوع BMX.",
+        "es": "Genera una bicicleta acrobática BMX.",
+        "fr": "Fait apparaître un vélo acrobatique BMX.",
+        "de": "Spawnt ein BMX-Stunt-Fahrrad.",
+        "it": "Genera una bicicletta acrobatica BMX.",
+        "pt": "Gera uma bicicleta de manobras BMX.",
+        "da": "Spawner en BMX-stuntcykel.",
+        "in": "Memunculkan sepeda akrobatik BMX."
+      }
+    },
+    {
+      "id": "gtav_spawn_buzzard",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Buzzard",
+      "descriptionEn": "Spawns the Buzzard Attack Chopper armed with miniguns and missiles.",
+      "titleTranslations": {
+        "ar": "استدعاء مروحية الهجوم Buzzard",
+        "es": "Aparecer Helicóptero Buzzard",
+        "pt": "Gerar Helicóptero Buzzard",
+        "da": "Spawn Buzzard",
+        "de": "Buzzard spawnen",
+        "fr": "Faire apparaître un Buzzard",
+        "in": "Munculkan Buzzard",
+        "it": "Genera Buzzard"
+      },
+      "previewImageUrl": "asset://helicopter",
+      "vehicleStats": {
+        "vehicleClass": "Attack Helicopter",
+        "speed": 92,
+        "armor": 80,
+        "handling": 88,
+        "weaponry": "Miniguns + Homing Missiles",
+        "seats": 4,
+        "archetype": "helicopter"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "L2",
+          "R1",
+          "TRIANGLE",
+          "CIRCLE",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "B",
+          "B",
+          "LB",
+          "B",
+          "B",
+          "B",
+          "LB",
+          "LT",
+          "RB",
+          "Y",
+          "B",
+          "Y"
+        ],
+        "pc": "BUZZOFF",
+        "phone": "1-999-289-9633"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن مروحية بوزارد الهجومية المسلحة بالرشاشات والصواريخ.",
+        "es": "Genera el helicóptero de ataque Buzzard armado con ametralladoras y misiles.",
+        "fr": "Fait apparaître l'hélicoptère d'attaque Buzzard armé de mitrailleuses et de missiles.",
+        "de": "Spawnt den Buzzard-Kampfhubschrauber mit Miniguns und Raketen.",
+        "it": "Genera l'elicottero d'attacco Buzzard armato di mitragliatrici e missili.",
+        "pt": "Gera o helicóptero de ataque Buzzard armado com metralhadoras e mísseis.",
+        "da": "Spawner Buzzard-kamphelikopteren med miniguns og missiler.",
+        "in": "Memunculkan helikopter serbu Buzzard bersenjata minigun dan rudal."
+      }
+    },
+    {
+      "id": "gtav_spawn_caddy",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Caddy",
+      "descriptionEn": "Spawns a Los Santos Country Club golf cart Caddy.",
+      "titleTranslations": {
+        "ar": "استدعاء عربة الجولف Caddy",
+        "es": "Aparecer Carrito de Golf Caddy",
+        "pt": "Gerar Carrinho de Golfe Caddy",
+        "da": "Spawn Caddy",
+        "de": "Caddy spawnen",
+        "fr": "Faire apparaître un Caddy",
+        "in": "Munculkan Caddy",
+        "it": "Genera Caddy"
+      },
+      "previewImageUrl": "asset://caddy",
+      "vehicleStats": {
+        "vehicleClass": "Golf Cart Utility",
+        "speed": 52,
+        "armor": 40,
+        "handling": 85,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "L1",
+          "LEFT",
+          "R1",
+          "L2",
+          "CROSS",
+          "R1",
+          "L1",
+          "CIRCLE",
+          "CROSS"
+        ],
+        "xbox": [
+          "B",
+          "LB",
+          "LEFT",
+          "RB",
+          "LT",
+          "A",
+          "RB",
+          "LB",
+          "B",
+          "A"
+        ],
+        "pc": "HOLEIN1",
+        "phone": "1-999-4653-46-1"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن عربة غولف كادي مخصصة لنادي لوس سانتوس.",
+        "es": "Genera un carrito de golf Caddy del Los Santos Country Club.",
+        "fr": "Fait apparaître une voiturette de golf Caddy du Los Santos Country Club.",
+        "de": "Spawnt ein Golfcart Caddy des Los Santos Country Clubs.",
+        "it": "Genera una golf cart Caddy del Los Santos Country Club.",
+        "pt": "Gera um carrinho de golfe Caddy do Los Santos Country Club.",
+        "da": "Spawner en golfvogn Caddy fra Los Santos Country Club.",
+        "in": "Memunculkan kereta golf Caddy dari Los Santos Country Club."
+      }
+    },
+    {
+      "id": "gtav_spawn_comet",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Comet",
+      "descriptionEn": "Spawns the Pfister Comet high-speed sports coupe.",
+      "titleTranslations": {
+        "ar": "استدعاء سيارة السباق Comet",
+        "es": "Aparecer Deportivo Comet",
+        "pt": "Gerar Esportivo Comet",
+        "da": "Spawn Comet",
+        "de": "Comet spawnen",
+        "fr": "Faire apparaître une Comet",
+        "in": "Munculkan Comet",
+        "it": "Genera Comet"
+      },
+      "previewImageUrl": "asset://supercar",
+      "vehicleStats": {
+        "vehicleClass": "Sports Car",
+        "speed": 94,
+        "armor": 60,
+        "handling": 90,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "CIRCLE",
+          "R2",
+          "RIGHT",
+          "L1",
+          "L2",
+          "CROSS",
+          "CROSS",
+          "SQUARE",
+          "R1"
+        ],
+        "xbox": [
+          "RB",
+          "B",
+          "RT",
+          "RIGHT",
+          "LB",
+          "LT",
+          "A",
+          "A",
+          "X",
+          "RB"
+        ],
+        "pc": "COMET",
+        "phone": "1-999-266-38"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن سيارة فيستر كوميت الرياضية فائقة السرعة.",
+        "es": "Genera el cupé deportivo de alta velocidad Pfister Comet.",
+        "fr": "Fait apparaître le coupé sportif ultra-rapide Pfister Comet.",
+        "de": "Spawnt das Hochgeschwindigkeits-Sportcoupé Pfister Comet.",
+        "it": "Genera la coupé sportiva ad alta velocità Pfister Comet.",
+        "pt": "Gera o cupê esportivo de alta velocidade Pfister Comet.",
+        "da": "Spawner den hurtige sportskupé Pfister Comet.",
+        "in": "Memunculkan mobil sport berkecepatan tinggi Pfister Comet."
+      }
+    },
+    {
+      "id": "gtav_spawn_sanchez",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Sanchez Dirt Bike",
+      "descriptionEn": "Spawns an off-road Maibatsu Sanchez motocross bike.",
+      "titleTranslations": {
+        "ar": "استدعاء دراجة Sanchez النارية",
+        "es": "Aparecer Moto Sanchez",
+        "pt": "Gerar Moto Sanchez",
+        "da": "Spawn Sanchez Crossmaskine",
+        "de": "Sanchez Dirt Bike spawnen",
+        "fr": "Faire apparaître une Sanchez",
+        "in": "Munculkan Motor Sanchez",
+        "it": "Genera Moto da Cross Sanchez"
+      },
+      "previewImageUrl": "asset://bike",
+      "vehicleStats": {
+        "vehicleClass": "Off-Road Dirt Bike",
+        "speed": 84,
+        "armor": 45,
+        "handling": 95,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "bike"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "CROSS",
+          "L1",
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "CIRCLE",
+          "R1",
+          "R2",
+          "L2",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "B",
+          "A",
+          "LB",
+          "B",
+          "B",
+          "LB",
+          "B",
+          "RB",
+          "RT",
+          "LT",
+          "LB",
+          "LB"
+        ],
+        "pc": "OFFROAD",
+        "phone": "1-999-633-7623"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن دراجة نارية ترابية مايباتسو سانشيز للمناطق الوعرة.",
+        "es": "Genera una moto de motocross todoterreno Maibatsu Sanchez.",
+        "fr": "Fait apparaître une moto tout-terrain de motocross Maibatsu Sanchez.",
+        "de": "Spawnt ein Geländemotorrad Maibatsu Sanchez.",
+        "it": "Genera una moto da cross fuoristrada Maibatsu Sanchez.",
+        "pt": "Gera uma moto de motocross off-road Maibatsu Sanchez.",
+        "da": "Spawner en terrængående Maibatsu Sanchez-motorcykel.",
+        "in": "Memunculkan motor trail off-road Maibatsu Sanchez."
+      }
+    },
+    {
+      "id": "gtav_spawn_rapid_gt",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Rapid GT",
+      "descriptionEn": "Spawns the Dewbauchee Rapid GT luxury sports coupe.",
+      "titleTranslations": {
+        "ar": "استدعاء سيارة Rapid GT",
+        "es": "Aparecer Rapid GT",
+        "pt": "Gerar Rapid GT",
+        "da": "Spawn Rapid GT",
+        "de": "Rapid GT spawnen",
+        "fr": "Faire apparaître une Rapid GT",
+        "in": "Munculkan Rapid GT",
+        "it": "Genera Rapid GT"
+      },
+      "previewImageUrl": "asset://supercar",
+      "vehicleStats": {
+        "vehicleClass": "Sports GT",
+        "speed": 93,
+        "armor": 62,
+        "handling": 88,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "L1",
+          "CIRCLE",
+          "RIGHT",
+          "L1",
+          "R1",
+          "RIGHT",
+          "LEFT",
+          "CIRCLE",
+          "R2"
+        ],
+        "xbox": [
+          "RT",
+          "LB",
+          "B",
+          "RIGHT",
+          "LB",
+          "RB",
+          "RIGHT",
+          "LEFT",
+          "B",
+          "RT"
+        ],
+        "pc": "RAPIDGT",
+        "phone": "1-999-727-4348"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن سيارة ديبوتشي رابيد جي تي الرياضية الفاخرة.",
+        "es": "Genera el cupé deportivo de lujo Dewbauchee Rapid GT.",
+        "fr": "Fait apparaître le coupé sportif de luxe Dewbauchee Rapid GT.",
+        "de": "Spawnt das luxuriöse Sportcoupé Dewbauchee Rapid GT.",
+        "it": "Genera la lussuosa coupé sportiva Dewbauchee Rapid GT.",
+        "pt": "Gera o cupê esportivo de luxo Dewbauchee Rapid GT.",
+        "da": "Spawner luksussportsvognen Dewbauchee Rapid GT.",
+        "in": "Memunculkan mobil sport mewah Dewbauchee Rapid GT."
+      }
+    },
+    {
+      "id": "gtav_spawn_stunt_plane",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Stunt Plane",
+      "descriptionEn": "Spawns the nimble Mallard aerobatic stunt plane.",
+      "titleTranslations": {
+        "ar": "استدعاء طائرة الاستعراض",
+        "es": "Aparecer Avión Acrobático",
+        "pt": "Gerar Avião de Acrobacias",
+        "da": "Spawn Stuntfly",
+        "de": "Kunstflugzeug spawnen",
+        "fr": "Faire apparaître un Avion de Voltige",
+        "in": "Munculkan Pesawat Akrobatik",
+        "it": "Genera Aereo Acrobatico"
+      },
+      "previewImageUrl": "asset://jet",
+      "vehicleStats": {
+        "vehicleClass": "Stunt Aircraft",
+        "speed": 90,
+        "armor": 55,
+        "handling": 98,
+        "weaponry": "None",
+        "seats": 1,
+        "archetype": "jet"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "RIGHT",
+          "L1",
+          "L2",
+          "LEFT",
+          "R1",
+          "L1",
+          "L1",
+          "LEFT",
+          "LEFT",
+          "CROSS",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "B",
+          "RIGHT",
+          "LB",
+          "LT",
+          "LEFT",
+          "RB",
+          "LB",
+          "LB",
+          "LEFT",
+          "LEFT",
+          "A",
+          "Y"
+        ],
+        "pc": "BARNSTORM",
+        "phone": "1-999-2276-78676"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن طائرة مالارد الاستعراضية الرشيقة للمناورات الجوية.",
+        "es": "Genera el ágil avión acrobático Mallard.",
+        "fr": "Fait apparaître l'avion de voltige acrobatique Mallard.",
+        "de": "Spawnt das wendige Kunstflugzeug Mallard.",
+        "it": "Genera l'agile aereo acrobatico Mallard.",
+        "pt": "Gera o ágil avião acrobático Mallard.",
+        "da": "Spawner det adrætte Mallard-stuntfly.",
+        "in": "Memunculkan pesawat akrobatik lincah Mallard."
+      }
+    },
+    {
+      "id": "gtav_spawn_trashmaster",
+      "gameId": "gta_v",
+      "category": "Vehicles",
+      "titleEn": "Spawn Trashmaster",
+      "descriptionEn": "Spawns a heavy municipal Trashmaster truck.",
+      "titleTranslations": {
+        "ar": "استدعاء شاحنة Trashmaster",
+        "es": "Aparecer Camión Trashmaster",
+        "pt": "Gerar Caminhão Trashmaster",
+        "da": "Spawn Trashmaster",
+        "de": "Trashmaster spawnen",
+        "fr": "Faire apparaître un Trashmaster",
+        "in": "Munculkan Trashmaster",
+        "it": "Genera Trashmaster"
+      },
+      "previewImageUrl": "asset://truck",
+      "vehicleStats": {
+        "vehicleClass": "Heavy Truck",
+        "speed": 65,
+        "armor": 92,
+        "handling": 58,
+        "weaponry": "Heavy Ram Bumper",
+        "seats": 2,
+        "archetype": "truck"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "R1",
+          "CIRCLE",
+          "R1",
+          "LEFT",
+          "LEFT",
+          "R1",
+          "L1",
+          "CIRCLE",
+          "RIGHT"
+        ],
+        "xbox": [
+          "B",
+          "RB",
+          "B",
+          "RB",
+          "LEFT",
+          "LEFT",
+          "RB",
+          "LB",
+          "B",
+          "RIGHT"
+        ],
+        "pc": "TRASHED",
+        "phone": "1-999-872-7433"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن شاحنة النفايات البلدية الثقيلة تراشماستر.",
+        "es": "Genera un pesado camión de basura municipal Trashmaster.",
+        "fr": "Fait apparaître un lourd camion poubelle municipal Trashmaster.",
+        "de": "Spawnt einen schweren Müllwagen Trashmaster.",
+        "it": "Genera un pesante camion della spazzatura Trashmaster.",
+        "pt": "Gera um pesado caminhão de lixo municipal Trashmaster.",
+        "da": "Spawner en tung skraldebil Trashmaster.",
+        "in": "Memunculkan truk sampah kota besar Trashmaster."
+      }
+    },
+    {
+      "id": "gtav_change_weather",
+      "gameId": "gta_v",
+      "category": "World & Weather",
+      "titleEn": "Change Weather",
+      "descriptionEn": "Cycles through Sunny, Clear, Cloudy, Smoggy, Overcast, Rainy, Thundery, and Snow.",
+      "titleTranslations": {
+        "ar": "تغيير الطقس",
+        "es": "Cambiar el Clima",
+        "pt": "Mudar o Clima",
+        "da": "Skift Vejr",
+        "de": "Wetter wechseln",
+        "fr": "Changer la Météo",
+        "in": "Ubah Cuaca",
+        "it": "Cambia Meteo"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "CROSS",
+          "L1",
+          "L1",
+          "L2",
+          "L2",
+          "L2",
+          "SQUARE"
+        ],
+        "xbox": [
+          "RT",
+          "A",
+          "LB",
+          "LB",
+          "LT",
+          "LT",
+          "LT",
+          "X"
+        ],
+        "pc": "MAKEITRAIN",
+        "phone": "1-999-625-348-7246"
+      },
+      "descriptionTranslations": {
+        "ar": "يبدل الطقس بين مشمس وصافٍ وغائم وضبابي وماطر ومثلج وعاصف.",
+        "es": "Alterna entre soleado, despejado, nublado, con niebla, lluvioso, con truenos y nevado.",
+        "fr": "Bascule entre ensoleillé, dégagé, nuageux, brumeux, pluvieux, orageux et neigeux.",
+        "de": "Wechselt durch sonnig, klar, wolkig, diesig, regnerisch, gewittrig und Schnee.",
+        "it": "Alterna tra soleggiato, sereno, nuvoloso, nebbioso, piovoso, temporalesco e nevoso.",
+        "pt": "Alterna entre ensolarado, limpo, nublado, com névoa, chuvoso, com trovões e com neve.",
+        "da": "Skifter mellem solrigt, klart, overskyet, tåget, regnfuldt, torden og sne.",
+        "in": "Beralih antara cerah, berawan, berkabut, mendung, hujan, badai, dan bersalju."
+      }
+    },
+    {
+      "id": "gtav_moon_gravity",
+      "gameId": "gta_v",
+      "category": "World & Weather",
+      "titleEn": "Moon Gravity",
+      "descriptionEn": "Reduces gravity for floaty vehicle jumps and physics.",
+      "titleTranslations": {
+        "ar": "جاذبية القمر",
+        "es": "Gravedad Lunar",
+        "pt": "Gravidade Lunar",
+        "da": "Månetyngdekraft",
+        "de": "Mond-Schwerkraft",
+        "fr": "Gravité Lunaire",
+        "in": "Gravitasi Bulan",
+        "it": "Gravità Lunare"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "LEFT",
+          "L1",
+          "R1",
+          "L1",
+          "RIGHT",
+          "LEFT",
+          "L1",
+          "LEFT"
+        ],
+        "xbox": [
+          "LEFT",
+          "LEFT",
+          "LB",
+          "RB",
+          "LB",
+          "RIGHT",
+          "LEFT",
+          "LB",
+          "LEFT"
+        ],
+        "pc": "FLOATER",
+        "phone": "1-999-356-2837"
+      },
+      "descriptionTranslations": {
+        "ar": "يقلل الجاذبية لتجربة قفزات مركبات عائمة وفيزياء تحاكي القمر.",
+        "es": "Reduce la gravedad para saltos flotantes de vehículos y física lunar.",
+        "fr": "Réduit la gravité pour des sauts de véhicules flottants et une physique lunaire.",
+        "de": "Verringert die Schwerkraft für schwebende Fahrzeugsprünge und Mondphysik.",
+        "it": "Riduce la gravità per salti fluttuanti dei veicoli e fisica lunare.",
+        "pt": "Reduz a gravidade para saltos flutuantes de veículos e física lunar.",
+        "da": "Reducerer tyngdekraften til svævende køretøjshop og månefysik.",
+        "in": "Mengurangi gravitasi untuk lompatan kendaraan melayang dan fisika bulan."
+      }
+    },
+    {
+      "id": "gtasa_hesoyam",
+      "gameId": "gta_sa",
+      "category": "Player & Health",
+      "titleEn": "Health, Armor & $250K Cash",
+      "descriptionEn": "Restores full health, armor, adds $250,000, and repairs your vehicle.",
+      "titleTranslations": {
+        "ar": "صحة، درع، و 250 ألف دولار",
+        "es": "Salud, Blindaje y $250,000",
+        "pt": "Vida, Colete e $250.000",
+        "da": "Helbred, Panser & $250K Kontant",
+        "de": "Gesundheit, Rüstung & 250.000 $",
+        "fr": "Santé, Armure & 250 000 $",
+        "in": "Kesehatan, Pelindung & $250K",
+        "it": "Salute, Armatura e 250.000 $"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "CROSS",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "A",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "HESOYAM",
+        "mobile": "HESOYAM"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد كامل الصحة والدرع ويضيف 250,000 دولار ويصلح مركبتك.",
+        "es": "Restaura salud y blindaje al máximo, añade $250,000 y repara tu vehículo.",
+        "fr": "Restaure santé et armure au max, ajoute 250 000 $ et répare votre véhicule.",
+        "de": "Stellt Gesundheit und Rüstung voll her, gibt $250.000 und repariert dein Fahrzeug.",
+        "it": "Ripristina salute e armatura al massimo, aggiunge 250.000$ e ripara il veicolo.",
+        "pt": "Restaura vida e colete ao máximo, adiciona $250.000 e repara seu veículo.",
+        "da": "Gendanner fuldt helbred, panser, tilføjer $250.000 og reparerer køretøjet.",
+        "in": "Memulihkan kesehatan penuh, pelindung, menambahkan $250.000, dan memperbaiki kendaraan."
+      }
+    },
+    {
+      "id": "gtasa_never_hungry",
+      "gameId": "gta_sa",
+      "category": "Player & Health",
+      "titleEn": "Never Hungry",
+      "descriptionEn": "CJ will never get hungry or lose muscle from starvation.",
+      "titleTranslations": {
+        "ar": "عدم الجوع أبداً",
+        "es": "Nunca Tener Hambre",
+        "pt": "Nunca Sentir Fome",
+        "da": "Aldrig Sulten",
+        "de": "Nie hungrig",
+        "fr": "Jamais Faim",
+        "in": "Tidak Pernah Lapar",
+        "it": "Mai Affamato"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "SQUARE",
+          "L2",
+          "R1",
+          "TRIANGLE",
+          "UP",
+          "SQUARE",
+          "L2",
+          "UP",
+          "CROSS"
+        ],
+        "xbox": [
+          "X",
+          "LT",
+          "RB",
+          "Y",
+          "UP",
+          "X",
+          "LT",
+          "UP",
+          "A"
+        ],
+        "pc": "AEDUWNV",
+        "mobile": "AEDUWNV"
+      },
+      "descriptionTranslations": {
+        "ar": "لن يشعر سي جيه بالجوع أبداً ولن يفقد عضلاته بسبب الجوع.",
+        "es": "CJ nunca tendrá hambre ni perderá músculo por inanición.",
+        "fr": "CJ n'aura jamais faim et ne perdra pas de muscles par la faim.",
+        "de": "CJ wird nie hungrig und verliert keine Muskeln durch Verhungern.",
+        "it": "CJ non avrà mai fame né perderà muscoli per la fame.",
+        "pt": "CJ nunca sentirá fome nem perderá massa muscular por desnutrição.",
+        "da": "CJ vil aldrig blive sulten eller tabe muskler af sult.",
+        "in": "CJ tidak akan pernah lapar atau kehilangan otot karena kelaparan."
+      }
+    },
+    {
+      "id": "gtasa_infinite_oxygen",
+      "gameId": "gta_sa",
+      "category": "Player & Health",
+      "titleEn": "Infinite Lung Capacity",
+      "descriptionEn": "Swim underwater indefinitely without drowning.",
+      "titleTranslations": {
+        "ar": "أكسجين لا نهائي تحت الماء",
+        "es": "Oxígeno Infinito Bajo el Agua",
+        "pt": "Fôlego Infinito Debaixo d'Água",
+        "da": "Uendelig Ilt under Vand",
+        "de": "Unendliches Lungenvolumen",
+        "fr": "Oxygène Infini",
+        "in": "Oksigen Tak Terbatas",
+        "it": "Ossigeno Infinito"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "LEFT",
+          "L1",
+          "DOWN",
+          "DOWN",
+          "R2",
+          "DOWN",
+          "L2",
+          "DOWN"
+        ],
+        "xbox": [
+          "DOWN",
+          "LEFT",
+          "LB",
+          "DOWN",
+          "DOWN",
+          "RT",
+          "DOWN",
+          "LT",
+          "DOWN"
+        ],
+        "pc": "CVWKXAM",
+        "mobile": "CVWKXAM"
+      },
+      "descriptionTranslations": {
+        "ar": "يمكنك السباحة تحت الماء دون توقف وبدون الغرق إطلاقاً.",
+        "es": "Nada bajo el agua indefinidamente sin ahogarte jamás.",
+        "fr": "Nagez sous l'eau indéfiniment sans jamais vous noyer.",
+        "de": "Schwimme unbegrenzt unter Wasser, ohne jemals zu ertrinken.",
+        "it": "Nuota sott'acqua all'infinito senza mai annegare.",
+        "pt": "Nade debaixo d'água indefinidamente sem nunca se afogar.",
+        "da": "Svøm under vandet i uendelig tid uden at drukne.",
+        "in": "Berenang di bawah air tanpa batas tanpa pernah tenggelam."
+      }
+    },
+    {
+      "id": "gtasa_baguvix",
+      "gameId": "gta_sa",
+      "category": "Player & Health",
+      "titleEn": "Infinite Health (Bulletproof)",
+      "descriptionEn": "Makes CJ immune to bullets, fire, and melee attacks.",
+      "titleTranslations": {
+        "ar": "صحة لا نهائية ضد الرصاص",
+        "es": "Salud Infinita",
+        "pt": "Vida Infinita",
+        "da": "Uendeligt Helbred (Skudsikker)",
+        "de": "Unendliche Gesundheit (Kugelsicher)",
+        "fr": "Santé Infinie (Pare-balles)",
+        "in": "Kesehatan Tak Terbatas (Kebal Peluru)",
+        "it": "Salute Infinita (Antiproiettile)"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "CROSS",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "R1",
+          "RIGHT",
+          "DOWN",
+          "UP",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "DOWN",
+          "A",
+          "RIGHT",
+          "LEFT",
+          "RIGHT",
+          "RB",
+          "RIGHT",
+          "DOWN",
+          "UP",
+          "Y"
+        ],
+        "pc": "BAGUVIX",
+        "mobile": "BAGUVIX"
+      },
+      "descriptionTranslations": {
+        "ar": "يجعل سي جيه محصناً ضد الرصاص والنيران وهجمات القتال اليدوي.",
+        "es": "Hace a CJ inmune a balas, fuego y ataques cuerpo a cuerpo.",
+        "fr": "Rend CJ immunisé contre les balles, le feu et les attaques au corps à corps.",
+        "de": "Macht CJ immun gegen Schüsse, Feuer und Nahkampfangriffe.",
+        "it": "Rende CJ immune a proiettili, fuoco e attacchi corpo a corpo.",
+        "pt": "Torna CJ imune a tiros, fogo e ataques corpo a corpo.",
+        "da": "Gør CJ immun over for kugler, ild og nærkampsangreb.",
+        "in": "Membuat CJ kebal terhadap peluru, api, dan serangan jarak dekat."
+      }
+    },
+    {
+      "id": "gtasa_weapons_set1",
+      "gameId": "gta_sa",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 1",
+      "descriptionEn": "Brass Knuckles, Bat, 9mm Pistol, Shotgun, Micro SMG, AK-47, Rifle, RPG, Molotov, Spray Can.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 1",
+        "es": "Pack de Armas 1",
+        "pt": "Pacote de Armas 1",
+        "da": "Våbensæt 1",
+        "de": "Waffenset 1",
+        "fr": "Pack d’Armes 1",
+        "in": "Paket Senjata 1",
+        "it": "Set Armi 1"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "R2",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "RT",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "LXGIWYL",
+        "mobile": "LXGIWYL"
+      },
+      "descriptionTranslations": {
+        "ar": "قبضة حديدية ومضرب ومسدس وشوزن ورشاش مصغر وAK-47 وبندقية وقاذف ومولوتوف وبخاخ.",
+        "es": "Puño americano, bate, pistola 9mm, escopeta, micro subfusil, AK-47, rifle, RPG, cóctel molotov y spray.",
+        "fr": "Poing américain, batte, pistolet 9mm, fusil à pompe, micro-mitraillette, AK-47, fusil, RPG, molotov, bombe aérosol.",
+        "de": "Schlagring, Baseballschläger, 9mm Pistole, Schrotflinte, Micro-MP, AK-47, Gewehr, RPG, Molotow, Spraydose.",
+        "it": "Tirapugni, mazza, pistola 9mm, fucile a pompa, micro mitra, AK-47, fucile, RPG, molotov, bomboletta spray.",
+        "pt": "Soco-inglês, taco, pistola 9mm, espingarda, micro SMG, AK-47, rifle, RPG, molotov e spray.",
+        "da": "Knojern, bat, 9mm pistol, haglgevær, micro-maskinpistol, AK-47, riffel, RPG, molotov og spraydåse.",
+        "in": "Knuckle, pemukul, pistol 9mm, shotgun, micro SMG, AK-47, senapan, RPG, molotov, kaleng cat."
+      }
+    },
+    {
+      "id": "gtasa_weapons_set2",
+      "gameId": "gta_sa",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 2",
+      "descriptionEn": "Knife, Desert Eagle, Sawn-Off Shotgun, Tec-9, M4, Sniper Rifle, Flamethrower, Grenades.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 2",
+        "es": "Pack de Armas 2",
+        "pt": "Pacote de Armas 2",
+        "da": "Våbensæt 2",
+        "de": "Waffenset 2",
+        "fr": "Pack d’Armes 2",
+        "in": "Paket Senjata 2",
+        "it": "Set Armi 2"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "R2",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "LEFT"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "RT",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "LEFT"
+        ],
+        "pc": "PROFESSIONALSKIT",
+        "mobile": "KJKSZPJ"
+      },
+      "descriptionTranslations": {
+        "ar": "سكين ونسر الصحراء وشوزن قصير وTec-9 وM4 وقناصة وقاذف لهب وقنابل يدوية.",
+        "es": "Cuchillo, Desert Eagle, escopeta recortada, Tec-9, M4, rifle de francotirador, lanzallamas y granadas.",
+        "fr": "Couteau, Desert Eagle, fusil à canon scié, Tec-9, M4, fusil de sniper, lance-flammes et grenades.",
+        "de": "Messer, Desert Eagle, abgesägte Schrotflinte, Tec-9, M4, Scharfschützengewehr, Flammenwerfer, Granaten.",
+        "it": "Coltello, Desert Eagle, fucile a canne mozze, Tec-9, M4, fucile di precisione, lanciafiamme e granate.",
+        "pt": "Faca, Desert Eagle, espingarda de cano serrado, Tec-9, M4, rifle sniper, lança-chamas e granadas.",
+        "da": "Kniv, Desert Eagle, afsavet haglgevær, Tec-9, M4, snigskytteriffel, flammekaster og granater.",
+        "in": "Pisau, Desert Eagle, shotgun gergaji, Tec-9, M4, senapan runduk, penyembur api, dan granat."
+      }
+    },
+    {
+      "id": "gtasa_weapons_set3",
+      "gameId": "gta_sa",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 3",
+      "descriptionEn": "Chainsaw, Silenced Pistol, Combat Shotgun, MP5, M4, Heat-Seeking RPG, Satchel Charges.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 3",
+        "es": "Pack de Armas 3",
+        "pt": "Pacote de Armas 3",
+        "da": "Våbensæt 3",
+        "de": "Waffenset 3",
+        "fr": "Pack d’Armes 3",
+        "in": "Paket Senjata 3",
+        "it": "Set Armi 3"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "R2",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "RT",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ],
+        "pc": "UZUMYMW",
+        "mobile": "UZUMYMW"
+      },
+      "descriptionTranslations": {
+        "ar": "منشار كهربائي ومسدس كاتم للصوت وشوزن قتالي وMP5 وM4 وقاذف حراري وشحنات متفجرة.",
+        "es": "Motosierra, pistola con silenciador, escopeta de combate, MP5, M4, RPG termodirigido y cargas explosivas.",
+        "fr": "Tronçonneuse, pistolet silencieux, fusil à pompe de combat, MP5, M4, RPG à tête chercheuse, explosifs télécommandés.",
+        "de": "Kettensäge, schallgedämpfte Pistole, Kampfschrotflinte, MP5, M4, wärmesuchende RPG, Sprengladungen.",
+        "it": "Motosega, pistola silenziata, fucile da combattimento, MP5, M4, RPG a ricerca termica e cariche telecomandate.",
+        "pt": "Motosserra, pistola silenciada, espingarda de combate, MP5, M4, RPG teleguiado e cargas explosivas.",
+        "da": "Motorsav, lyddæmpet pistol, kamphaglgevær, MP5, M4, varmesøgende RPG og sprængladninger.",
+        "in": "Gergaji mesin, pistol berperedam, shotgun tempur, MP5, M4, RPG pelacak panas, dan bahan peledak."
+      }
+    },
+    {
+      "id": "gtasa_fullclip",
+      "gameId": "gta_sa",
+      "category": "Weapons & Combat",
+      "titleEn": "Infinite Ammo, No Reload",
+      "descriptionEn": "Unlimited ammunition for all weapons with no reload required.",
+      "titleTranslations": {
+        "ar": "ذخيرة لا نهائية بدون تلقيم",
+        "es": "Munición Infinita Sin Recargar",
+        "pt": "Munição Infinita Sem Recarregar",
+        "da": "Uendelig Ammunition, Ingen Genladning",
+        "de": "Unendliche Munition, Kein Nachladen",
+        "fr": "Munitions Infinies, Sans Rechargement",
+        "in": "Amunisi Tak Terbatas, Tanpa Isi Ulang",
+        "it": "Munizioni Infinite, Nessuna Ricarica"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "L1",
+          "R1",
+          "SQUARE",
+          "R1",
+          "LEFT",
+          "R2",
+          "R1",
+          "LEFT",
+          "SQUARE",
+          "DOWN",
+          "L1",
+          "L1"
+        ],
+        "xbox": [
+          "LB",
+          "RB",
+          "X",
+          "RB",
+          "LEFT",
+          "RT",
+          "RB",
+          "LEFT",
+          "X",
+          "DOWN",
+          "LB",
+          "LB"
+        ],
+        "pc": "FULLCLIP",
+        "mobile": "FULLCLIP"
+      },
+      "descriptionTranslations": {
+        "ar": "ذخيرة لا نهائية لجميع الأسلحة بدون الحاجة لإعادة التلقيم.",
+        "es": "Munición ilimitada para todas las armas sin necesidad de recargar.",
+        "fr": "Munitions illimitées pour toutes les armes sans jamais recharger.",
+        "de": "Unendliche Munition für alle Waffen ohne Nachladen.",
+        "it": "Munizioni infinite per tutte le armi senza dover ricaricare.",
+        "pt": "Munição infinita para todas as armas sem precisar recarregar.",
+        "da": "Uendelig ammunition til alle våben uden genladning.",
+        "in": "Amunisi tak terbatas untuk semua senjata tanpa perlu reload."
+      }
+    },
+    {
+      "id": "gtasa_bloodring_banger",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Bloodring Banger",
+      "descriptionEn": "Spawns a demolition derby Bloodring Banger stock car.",
+      "titleTranslations": {
+        "ar": "استدعاء سيارة Bloodring Banger",
+        "es": "Aparecer Bloodring Banger",
+        "pt": "Gerar Bloodring Banger",
+        "da": "Bloodring Banger",
+        "de": "Bloodring Banger",
+        "fr": "Bloodring Banger",
+        "in": "Bloodring Banger",
+        "it": "Bloodring Banger"
+      },
+      "previewImageUrl": "asset://supercar",
+      "vehicleStats": {
+        "vehicleClass": "Demolition Derby Car",
+        "speed": 82,
+        "armor": 88,
+        "handling": 78,
+        "weaponry": "Reinforced Roll Cage",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "DOWN",
+          "R1",
+          "CIRCLE",
+          "L2",
+          "L2",
+          "CROSS",
+          "R1",
+          "L1",
+          "LEFT",
+          "LEFT"
+        ],
+        "xbox": [
+          "DOWN",
+          "RB",
+          "B",
+          "LT",
+          "LT",
+          "A",
+          "RB",
+          "LB",
+          "LEFT",
+          "LEFT"
+        ],
+        "pc": "OLDSPEEDDEMON",
+        "mobile": "CQZIJMB"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن سيارة سباقات الاصطدام بلودرينغ بانغر.",
+        "es": "Genera el coche de carreras de demolición Bloodring Banger.",
+        "fr": "Fait apparaître la voiture de stock-car de démolition Bloodring Banger.",
+        "de": "Spawnt das Demolition-Derby-Stockcar Bloodring Banger.",
+        "it": "Genera l'auto da corsa da demolizione Bloodring Banger.",
+        "pt": "Gera o carro de corrida de demolição Bloodring Banger.",
+        "da": "Spawner smadderderby-bilen Bloodring Banger.",
+        "in": "Memunculkan mobil balap derby kehancuran Bloodring Banger."
+      }
+    },
+    {
+      "id": "gtasa_spawn_caddy",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Spawn Caddy",
+      "descriptionEn": "Spawns a nimble golf cart Caddy.",
+      "titleTranslations": {
+        "ar": "استدعاء عربة الجولف Caddy",
+        "es": "Aparecer Carrito Caddy",
+        "pt": "Gerar Carrinho Caddy",
+        "da": "Spawn Caddy",
+        "de": "Caddy spawnen",
+        "fr": "Faire apparaître un Caddy",
+        "in": "Munculkan Caddy",
+        "it": "Genera Caddy"
+      },
+      "previewImageUrl": "asset://caddy",
+      "vehicleStats": {
+        "vehicleClass": "Golf Cart",
+        "speed": 50,
+        "armor": 40,
+        "handling": 86,
+        "weaponry": "Grants Golf Club",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "L1",
+          "UP",
+          "R1",
+          "L2",
+          "CROSS",
+          "R1",
+          "L1",
+          "CIRCLE",
+          "CROSS"
+        ],
+        "xbox": [
+          "B",
+          "LB",
+          "UP",
+          "RB",
+          "LT",
+          "A",
+          "RB",
+          "LB",
+          "B",
+          "A"
+        ],
+        "pc": "RZHSUEW",
+        "mobile": "RZHSUEW"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن عربة الغولف كادي الصغيرة والذكية.",
+        "es": "Genera un ágil carrito de golf Caddy.",
+        "fr": "Fait apparaître une voiturette de golf Caddy agile.",
+        "de": "Spawnt ein wendiges Golfcart Caddy.",
+        "it": "Genera una scattante golf cart Caddy.",
+        "pt": "Gera um ágil carrinho de golfe Caddy.",
+        "da": "Spawner en adræt golfvogn Caddy.",
+        "in": "Memunculkan kereta golf Caddy yang lincah."
+      }
+    },
+    {
+      "id": "gtasa_spawn_dozer",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Dozer",
+      "descriptionEn": "Spawns a heavy construction bulldozer.",
+      "titleTranslations": {
+        "ar": "استدعاء الجرافة Dozer",
+        "es": "Aparecer Bulldozer",
+        "pt": "Gerar Trator Dozer",
+        "da": "Bulldozer",
+        "de": "Planierraupe (Dozer)",
+        "fr": "Bulldozer (Dozer)",
+        "in": "Buldoser (Dozer)",
+        "it": "Bulldozer (Dozer)"
+      },
+      "previewImageUrl": "asset://truck",
+      "vehicleStats": {
+        "vehicleClass": "Heavy Bulldozer",
+        "speed": 54,
+        "armor": 95,
+        "handling": 70,
+        "weaponry": "Front Steel Blade",
+        "seats": 1,
+        "archetype": "truck"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "L1",
+          "L1",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "UP",
+          "CROSS",
+          "L1",
+          "LEFT"
+        ],
+        "xbox": [
+          "RT",
+          "LB",
+          "LB",
+          "RIGHT",
+          "RIGHT",
+          "UP",
+          "UP",
+          "A",
+          "LB",
+          "LEFT"
+        ],
+        "pc": "ITSALLBULL",
+        "mobile": "EEGCYXT"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن جرافة إنشائية ثقيلة دوزر.",
+        "es": "Genera una pesada excavadora de construcción Dozer.",
+        "fr": "Fait apparaître un lourd bulldozer de chantier Dozer.",
+        "de": "Spawnt eine schwere Baustellen-Planierraupe Dozer.",
+        "it": "Genera un pesante bulldozer da cantiere Dozer.",
+        "pt": "Gera uma pesada escavadeira de construção Dozer.",
+        "da": "Spawner en tung entreprenørbulldozer Dozer.",
+        "in": "Memunculkan buldoser konstruksi berat Dozer."
+      }
+    },
+    {
+      "id": "gtasa_jetpack",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Spawn Jetpack",
+      "descriptionEn": "Equips the secret military Jetpack onto CJ.",
+      "titleTranslations": {
+        "ar": "الحصول على الحقيبة النفاثة Jetpack",
+        "es": "Obtener Jetpack",
+        "pt": "Gerar Jetpack",
+        "da": "Spawn Jetpack",
+        "de": "Jetpack spawnen",
+        "fr": "Faire apparaître un Jetpack",
+        "in": "Munculkan Jetpack",
+        "it": "Genera Jetpack"
+      },
+      "previewImageUrl": "asset://jetpack",
+      "vehicleStats": {
+        "vehicleClass": "Personal Thruster",
+        "speed": 82,
+        "armor": 100,
+        "handling": 99,
+        "weaponry": "Dual SMG Capable",
+        "seats": 1,
+        "archetype": "jetpack"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "L1",
+          "L2",
+          "R1",
+          "R2",
+          "UP",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "L1",
+          "L2",
+          "R1",
+          "R2",
+          "UP",
+          "DOWN",
+          "LEFT",
+          "RIGHT"
+        ],
+        "xbox": [
+          "LB",
+          "LT",
+          "RB",
+          "RT",
+          "UP",
+          "DOWN",
+          "LEFT",
+          "RIGHT",
+          "LB",
+          "LT",
+          "RB",
+          "RT",
+          "UP",
+          "DOWN",
+          "LEFT",
+          "RIGHT"
+        ],
+        "pc": "ROCKETMAN",
+        "mobile": "ROCKETMAN"
+      },
+      "descriptionTranslations": {
+        "ar": "يزود سي جيه بالنفاثة النفاثة العسكرية السرية جيت باك للطيران.",
+        "es": "Equipa el Jetpack militar secreto en la espalda de CJ.",
+        "fr": "Équipe le Jetpack militaire secret sur le dos de CJ.",
+        "de": "Rüstet das geheime Militär-Jetpack auf CJs Rücken aus.",
+        "it": "Equipaggia il Jetpack militare segreto sulle spalle di CJ.",
+        "pt": "Equipa a mochila a jato militar secreta (Jetpack) no CJ.",
+        "da": "Udruster den hemmelige militære Jetpack på CJ.",
+        "in": "Melengkapi Jetpack militer rahasia ke punggung CJ."
+      }
+    },
+    {
+      "id": "gtasa_rhino_tank",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Spawn Rhino Tank",
+      "descriptionEn": "Spawns an armored Rhino battle tank.",
+      "titleTranslations": {
+        "ar": "استدعاء دبابة Rhino",
+        "es": "Aparecer Tanque Rhino",
+        "pt": "Gerar Tanque Rhino",
+        "da": "Spawn Rhino Kampvogn",
+        "de": "Rhino-Panzer spawnen",
+        "fr": "Faire apparaître le Char Rhino",
+        "in": "Munculkan Tank Rhino",
+        "it": "Genera Carro Armato Rhino"
+      },
+      "previewImageUrl": "asset://tank",
+      "vehicleStats": {
+        "vehicleClass": "Heavy Battle Tank",
+        "speed": 62,
+        "armor": 100,
+        "handling": 65,
+        "weaponry": "120mm Cannon",
+        "seats": 1,
+        "archetype": "tank"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "L2",
+          "R1",
+          "TRIANGLE",
+          "CIRCLE",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "B",
+          "B",
+          "LB",
+          "B",
+          "B",
+          "B",
+          "LB",
+          "LT",
+          "RB",
+          "Y",
+          "B",
+          "Y"
+        ],
+        "pc": "AIWPRTON",
+        "mobile": "AIWPRTON"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن دبابة المعركة العسكرية المدرعة راينو.",
+        "es": "Genera un tanque de batalla militar blindado Rhino.",
+        "fr": "Fait apparaître un char de combat militaire blindé Rhino.",
+        "de": "Spawnt einen schwer gepanzerten Militär-Kampfpanzer Rhino.",
+        "it": "Genera un carro armato da combattimento militare corazzato Rhino.",
+        "pt": "Gera um tanque de guerra blindado militar Rhino.",
+        "da": "Spawner en pansret militærkamptank Rhino.",
+        "in": "Memunculkan tank tempur militer lapis baja Rhino."
+      }
+    },
+    {
+      "id": "gtasa_hydra_jet",
+      "gameId": "gta_sa",
+      "category": "Vehicles",
+      "titleEn": "Spawn Hydra Fighter Jet",
+      "descriptionEn": "Spawns a vertical-takeoff military supersonic jet.",
+      "titleTranslations": {
+        "ar": "استدعاء طائرة Hydra الحربية",
+        "es": "Aparecer Caza Hydra",
+        "pt": "Gerar Caça Hydra",
+        "da": "Spawn Hydra Jagerfly",
+        "de": "Hydra-Kampfjet spawnen",
+        "fr": "Faire apparaître l’Avion Hydra",
+        "in": "Munculkan Jet Tempur Hydra",
+        "it": "Genera Jet da Caccia Hydra"
+      },
+      "previewImageUrl": "asset://jet",
+      "vehicleStats": {
+        "vehicleClass": "Supersonic VTOL Jet",
+        "speed": 100,
+        "armor": 85,
+        "handling": 92,
+        "weaponry": "Heat-Seeking Missiles",
+        "seats": 1,
+        "archetype": "jet"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "TRIANGLE",
+          "TRIANGLE",
+          "SQUARE",
+          "CIRCLE",
+          "CROSS",
+          "L1",
+          "L1",
+          "DOWN",
+          "UP"
+        ],
+        "xbox": [
+          "Y",
+          "Y",
+          "X",
+          "B",
+          "A",
+          "LB",
+          "LB",
+          "DOWN",
+          "UP"
+        ],
+        "pc": "JUMPJET",
+        "mobile": "JUMPJET"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن طائرة هيدرا الحربية النفاثة ذات الإقلاع العمودي وفوق الصوتية.",
+        "es": "Genera el caza supersónico militar con despegue vertical Hydra.",
+        "fr": "Fait apparaître le chasseur supersonique militaire à décollage vertical Hydra.",
+        "de": "Spawnt den militärischen Überschall-Senkrechtstarter-Jet Hydra.",
+        "it": "Genera il caccia supersonico militare a decollo verticale Hydra.",
+        "pt": "Gera o caça supersônico militar de decolagem vertical Hydra.",
+        "da": "Spawner det lodret-startende militære overlydsjetfly Hydra.",
+        "in": "Memunculkan jet tempur supersonik militer lepas landas vertikal Hydra."
+      }
+    },
+    {
+      "id": "gtaiv_health_weapons",
+      "gameId": "gta_iv",
+      "category": "Player & Health",
+      "titleEn": "Health, Armor & Weapons",
+      "descriptionEn": "Restores Niko's health, armor, ammo, and repairs vehicle.",
+      "titleTranslations": {
+        "ar": "صحة كاملة ودرع وأسلحة",
+        "es": "Salud, Blindaje y Armas",
+        "pt": "Vida, Colete e Armas",
+        "da": "Helbred, Panser & Våben",
+        "de": "Gesundheit, Rüstung & Waffen",
+        "fr": "Santé, Armure & Armes",
+        "in": "Kesehatan, Pelindung & Senjata",
+        "it": "Salute, Armatura e Armi"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "UP",
+          "CIRCLE",
+          "TRIANGLE",
+          "R1",
+          "L1",
+          "CROSS",
+          "SQUARE"
+        ],
+        "xbox": [
+          "UP",
+          "UP",
+          "B",
+          "Y",
+          "RB",
+          "LB",
+          "A",
+          "X"
+        ],
+        "pc": "482-555-0100",
+        "phone": "482-555-0100"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد صحة نيكو ودرعه وذخيرته بالكامل ويصلح المركبة.",
+        "es": "Restaura salud, blindaje y munición de Niko y repara el vehículo.",
+        "fr": "Restaure la santé, l'armure et les munitions de Niko et répare le véhicule.",
+        "de": "Stellt Nikos Gesundheit, Schutzweste und Munition wieder her und repariert das Auto.",
+        "it": "Ripristina la salute, l'armatura e i proiettili di Niko e ripara l'auto.",
+        "pt": "Restaura a vida, colete e munição de Niko e repara o veículo.",
+        "da": "Gendanner Nikos helbred, panser, ammunition og reparerer bilen.",
+        "in": "Memulihkan kesehatan Niko, pelindung tubuh, amunisi, dan memperbaiki kendaraan."
+      }
+    },
+    {
+      "id": "gtaiv_weapons_tier1",
+      "gameId": "gta_iv",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 1 (Advanced)",
+      "descriptionEn": "Knife, Molotovs, Handgun, Shotgun, Uzi, AK-47, Sniper Rifle, RPG.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 1",
+        "es": "Pack de Armas 1",
+        "pt": "Pacote de Armas 1",
+        "da": "Våbensæt 1 (Avanceret)",
+        "de": "Waffenset 1 (Erweitert)",
+        "fr": "Pack d’Armes 1 (Avancé)",
+        "in": "Paket Senjata 1 (Lanjutan)",
+        "it": "Set Armi 1 (Avanzato)"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "UP",
+          "SQUARE",
+          "TRIANGLE",
+          "R1",
+          "L1",
+          "CIRCLE",
+          "CROSS"
+        ],
+        "xbox": [
+          "UP",
+          "UP",
+          "X",
+          "Y",
+          "RB",
+          "LB",
+          "B",
+          "A"
+        ],
+        "pc": "486-555-0100",
+        "phone": "486-555-0100"
+      },
+      "descriptionTranslations": {
+        "ar": "سكين ومولوتوف ومسدس وشوزن ويوزي وAK-47 وبندقية قنص وقاذف RPG.",
+        "es": "Cuchillo, cócteles molotov, pistola, escopeta, Uzi, AK-47, rifle francotirador y RPG.",
+        "fr": "Couteau, molotovs, pistolet, fusil à pompe, Uzi, AK-47, fusil de précision et RPG.",
+        "de": "Messer, Molotowcocktails, Pistole, Schrotflinte, Uzi, AK-47, Scharfschützengewehr, RPG.",
+        "it": "Coltello, molotov, pistola, fucile a pompa, Uzi, AK-47, fucile di precisione e RPG.",
+        "pt": "Faca, coquetéis molotov, pistola, espingarda, Uzi, AK-47, rifle sniper e RPG.",
+        "da": "Kniv, molotovcocktails, pistol, haglgevær, Uzi, AK-47, snigskytteriffel og RPG.",
+        "in": "Pisau, molotov, pistol, shotgun, Uzi, AK-47, senapan runduk, dan RPG."
+      }
+    },
+    {
+      "id": "gtaiv_clear_wanted",
+      "gameId": "gta_iv",
+      "category": "Player & Health",
+      "titleEn": "Remove Wanted Level",
+      "descriptionEn": "Clears all active LCPD wanted stars immediately.",
+      "titleTranslations": {
+        "ar": "إزالة مستوى المطاردة",
+        "es": "Eliminar Nivel de Búsqueda",
+        "pt": "Limpar Nível de Procurado",
+        "da": "Fjern Eftersøgningsniveau",
+        "de": "Fahndungslevel entfernen",
+        "fr": "Supprimer l’Indice de Recherche",
+        "in": "Hapus Level Buronan",
+        "it": "Azzera Livello di Sospetto"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "UP",
+          "R1",
+          "R1",
+          "CIRCLE",
+          "R2",
+          "UP",
+          "DOWN"
+        ],
+        "xbox": [
+          "UP",
+          "UP",
+          "RB",
+          "RB",
+          "B",
+          "RT",
+          "UP",
+          "DOWN"
+        ],
+        "pc": "267-555-0100",
+        "phone": "267-555-0100"
+      },
+      "descriptionTranslations": {
+        "ar": "يمحو جميع نجوم مطاردة شرطة ليبرتي سيتي النشطة فوراً.",
+        "es": "Elimina todas las estrellas de búsqueda policial de LCPD al instante.",
+        "fr": "Efface immédiatement toutes les étoiles de recherche de la police LCPD.",
+        "de": "Löscht sofort alle aktiven LCPD-Fahndungssterne.",
+        "it": "Azzera immediatamente tutti i livelli di allarme della polizia LCPD.",
+        "pt": "Limpa todas as estrelas de procurado da polícia LCPD imediatamente.",
+        "da": "Fjerner øjeblikkeligt alle LCPD-eftersøgningsstjerner.",
+        "in": "Menghapus semua bintang buronan polisi LCPD secara instan."
+      }
+    },
+    {
+      "id": "gtaiv_spawn_annihilator",
+      "gameId": "gta_iv",
+      "category": "Vehicles",
+      "titleEn": "Spawn Annihilator Chopper",
+      "descriptionEn": "Spawns an armed LCPD tactical gunship helicopter.",
+      "titleTranslations": {
+        "ar": "استدعاء مروحية Annihilator",
+        "es": "Aparecer Helicóptero Annihilator",
+        "pt": "Gerar Helicóptero Annihilator",
+        "da": "Spawn Annihilator Helikopter",
+        "de": "Annihilator-Helikopter spawnen",
+        "fr": "Faire apparaître l’Annihilator",
+        "in": "Munculkan Helikopter Annihilator",
+        "it": "Genera Elicottero Annihilator"
+      },
+      "previewImageUrl": "asset://helicopter",
+      "vehicleStats": {
+        "vehicleClass": "Tactical Helicopter",
+        "speed": 88,
+        "armor": 84,
+        "handling": 82,
+        "weaponry": "Quad Miniguns",
+        "seats": 4,
+        "archetype": "helicopter"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "UP",
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "CIRCLE",
+          "L2",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "UP",
+          "UP",
+          "B",
+          "B",
+          "LB",
+          "B",
+          "LT",
+          "Y"
+        ],
+        "pc": "359-555-0100",
+        "phone": "359-555-0100"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن مروحية آنيهيليتور التكتيكية المسلحة التابعة للشرطة.",
+        "es": "Genera el helicóptero de combate táctico Annihilator del LCPD.",
+        "fr": "Fait apparaître l'hélicoptère de combat tactique Annihilator du LCPD.",
+        "de": "Spawnt den bewaffneten taktischen LCPD-Kampfhubschrauber Annihilator.",
+        "it": "Genera l'elicottero d'attacco tattico armato Annihilator della polizia.",
+        "pt": "Gera o helicóptero de combate tático armado Annihilator da polícia LCPD.",
+        "da": "Spawner den bevæbnede taktiske LCPD-helikopter Annihilator.",
+        "in": "Memunculkan helikopter serbu taktis polisi Annihilator bersenjata."
+      }
+    },
+    {
+      "id": "gtaiv_spawn_turismo",
+      "gameId": "gta_iv",
+      "category": "Vehicles",
+      "titleEn": "Spawn Grotti Turismo",
+      "descriptionEn": "Spawns an exotic Grotti Turismo supercar.",
+      "titleTranslations": {
+        "ar": "استدعاء سيارة Turismo",
+        "es": "Aparecer Grotti Turismo",
+        "pt": "Gerar Grotti Turismo",
+        "da": "Spawn Grotti Turismo",
+        "de": "Grotti Turismo spawnen",
+        "fr": "Faire apparaître une Grotti Turismo",
+        "in": "Munculkan Grotti Turismo",
+        "it": "Genera Grotti Turismo"
+      },
+      "previewImageUrl": "asset://supercar",
+      "vehicleStats": {
+        "vehicleClass": "Exotic Supercar",
+        "speed": 95,
+        "armor": 58,
+        "handling": 91,
+        "weaponry": "None",
+        "seats": 2,
+        "archetype": "supercar"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "UP",
+          "R1",
+          "CIRCLE",
+          "R2",
+          "RIGHT",
+          "L1",
+          "L2"
+        ],
+        "xbox": [
+          "UP",
+          "UP",
+          "RB",
+          "B",
+          "RT",
+          "RIGHT",
+          "LB",
+          "LT"
+        ],
+        "pc": "227-555-0147",
+        "phone": "227-555-0147"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن سيارة غروتي توريزمو الرياضية الخارقة الغريبة.",
+        "es": "Genera el exótico superdeportivo Grotti Turismo.",
+        "fr": "Fait apparaître la supercar exotique Grotti Turismo.",
+        "de": "Spawnt den exotischen Supersportwagen Grotti Turismo.",
+        "it": "Genera l'esotica supercar ad altissime prestazioni Grotti Turismo.",
+        "pt": "Gera o superesportivo exótico Grotti Turismo.",
+        "da": "Spawner den eksotiske supersportsvogn Grotti Turismo.",
+        "in": "Memunculkan supercar eksotis Grotti Turismo."
+      }
+    },
+    {
+      "id": "gtavc_aspirine",
+      "gameId": "gta_vc",
+      "category": "Player & Health",
+      "titleEn": "Full Health (ASPIRINE)",
+      "descriptionEn": "Restores Tommy Vercetti's health to 100 and repairs vehicle.",
+      "titleTranslations": {
+        "ar": "صحة كاملة (ASPIRINE)",
+        "es": "Salud al Máximo (ASPIRINE)",
+        "pt": "Vida Completa (ASPIRINE)",
+        "da": "Fuldt Helbred (ASPIRINE)",
+        "de": "Volle Gesundheit (ASPIRINE)",
+        "fr": "Santé Maximale (ASPIRINE)",
+        "in": "Kesehatan Penuh (ASPIRINE)",
+        "it": "Salute al Massimo (ASPIRINE)"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "CIRCLE",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "B",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "ASPIRINE",
+        "mobile": "ASPIRINE"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد صحة تومي فيرسيتي إلى 100 ويصلح مركبتك بالكامل.",
+        "es": "Restaura la salud de Tommy Vercetti a 100 y repara el vehículo.",
+        "fr": "Restaure la santé de Tommy Vercetti à 100 et répare le véhicule.",
+        "de": "Stellt Tommy Vercettis Gesundheit auf 100 wieder her und repariert das Fahrzeug.",
+        "it": "Ripristina la salute di Tommy Vercetti a 100 e ripara l'auto.",
+        "pt": "Restaura a vida de Tommy Vercetti para 100 e repara o veículo.",
+        "da": "Gendanner Tommy Vercettis helbred til 100 og reparerer bilen.",
+        "in": "Memulihkan kesehatan Tommy Vercetti ke 100 dan memperbaiki kendaraan."
+      }
+    },
+    {
+      "id": "gtavc_preciousprotection",
+      "gameId": "gta_vc",
+      "category": "Player & Health",
+      "titleEn": "Full Armor (PRECIOUSPROTECTION)",
+      "descriptionEn": "Restores body armor to 100%.",
+      "titleTranslations": {
+        "ar": "درع كامل (PRECIOUSPROTECTION)",
+        "es": "Blindaje al Máximo",
+        "pt": "Colete no Máximo",
+        "da": "Fuldt Panser (PRECIOUSPROTECTION)",
+        "de": "Volle Rüstung (PRECIOUSPROTECTION)",
+        "fr": "Armure Complète (PRECIOUSPROTECTION)",
+        "in": "Pelindung Penuh (PRECIOUSPROTECTION)",
+        "it": "Armatura Completa (PRECIOUSPROTECTION)"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "CROSS",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "A",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "PRECIOUSPROTECTION",
+        "mobile": "PRECIOUSPROTECTION"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد الدرع الواقي من الرصاص إلى 100% فوراً.",
+        "es": "Restaura el blindaje corporal al 100% de inmediato.",
+        "fr": "Restaure l'armure corporelle à 100% immédiatement.",
+        "de": "Füllt die Schutzweste sofort auf 100% auf.",
+        "it": "Ripristina l'armatura antiproiettile al 100% all'istante.",
+        "pt": "Restaura o colete à prova de balas para 100% imediatamente.",
+        "da": "Gendanner skudsikker vest til 100% med det samme.",
+        "in": "Memulihkan pelindung tubuh antipeluru ke 100% secara instan."
+      }
+    },
+    {
+      "id": "gtavc_nuttertools",
+      "gameId": "gta_vc",
+      "category": "Weapons & Combat",
+      "titleEn": "Heavy Weapons Set (NUTTERTOOLS)",
+      "descriptionEn": "Chainsaw, Minigun, PSG-1 Sniper, M4, Spas-12, Python, Grenades.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة الثقيلة (NUTTERTOOLS)",
+        "es": "Armas Pesadas (NUTTERTOOLS)",
+        "pt": "Armas Pesadas (NUTTERTOOLS)",
+        "da": "Tunge Våben (NUTTERTOOLS)",
+        "de": "Schwere Waffen (NUTTERTOOLS)",
+        "fr": "Armes Lourdes (NUTTERTOOLS)",
+        "in": "Paket Senjata Berat (NUTTERTOOLS)",
+        "it": "Set Armi Pesanti (NUTTERTOOLS)"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "R2",
+          "L1",
+          "R2",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ],
+        "xbox": [
+          "RB",
+          "RT",
+          "LB",
+          "RT",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "DOWN",
+          "DOWN"
+        ],
+        "pc": "NUTTERTOOLS",
+        "mobile": "NUTTERTOOLS"
+      },
+      "descriptionTranslations": {
+        "ar": "منشار كهربائي ورشاش ميني غان وقناصة PSG-1 وبندقية M4 وشوزن Spas-12 ومسدس بايثون وقنابل.",
+        "es": "Motosierra, minigun, rifle PSG-1, M4, escopeta Spas-12, revólver Python y granadas.",
+        "fr": "Tronçonneuse, minigun, fusil de précision PSG-1, M4, Spas-12, revolver Python et grenades.",
+        "de": "Kettensäge, Minigun, PSG-1 Scharfschützengewehr, M4, Spas-12, Python-Revolver und Granaten.",
+        "it": "Motosega, minigun, fucile da cecchino PSG-1, M4, Spas-12, revolver Python e granate.",
+        "pt": "Motosserra, minigun, rifle sniper PSG-1, M4, espingarda Spas-12, revólver Python e granadas.",
+        "da": "Motorsav, minigun, PSG-1 snigskytteriffel, M4, Spas-12, Python-revolver og granater.",
+        "in": "Gergaji mesin, minigun, PSG-1 sniper, M4, shotgun Spas-12, revolver Python, dan granat."
+      }
+    },
+    {
+      "id": "gtavc_panzer",
+      "gameId": "gta_vc",
+      "category": "Vehicles",
+      "titleEn": "Spawn Rhino Tank (PANZER)",
+      "descriptionEn": "Drops an armored military Rhino tank.",
+      "titleTranslations": {
+        "ar": "استدعاء دبابة Rhino (PANZER)",
+        "es": "Aparecer Tanque Rhino (PANZER)",
+        "pt": "Gerar Tanque Rhino (PANZER)",
+        "da": "Spawn Rhino Kampvogn (PANZER)",
+        "de": "Rhino-Panzer spawnen (PANZER)",
+        "fr": "Char Rhino (PANZER)",
+        "in": "Munculkan Tank Rhino (PANZER)",
+        "it": "Carro Armato Rhino (PANZER)"
+      },
+      "previewImageUrl": "asset://tank",
+      "vehicleStats": {
+        "vehicleClass": "Armored Tank",
+        "speed": 60,
+        "armor": 100,
+        "handling": 64,
+        "weaponry": "Main Turret Cannon",
+        "seats": 1,
+        "archetype": "tank"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "L1",
+          "L2",
+          "R1",
+          "TRIANGLE",
+          "CIRCLE",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "B",
+          "B",
+          "LB",
+          "B",
+          "B",
+          "B",
+          "LB",
+          "LT",
+          "RB",
+          "Y",
+          "B",
+          "Y"
+        ],
+        "pc": "PANZER",
+        "mobile": "PANZER"
+      },
+      "descriptionTranslations": {
+        "ar": "يُسقط دبابة راينو العسكرية المدرعة من السماء أمامك.",
+        "es": "Lanza un tanque militar blindado Rhino justo delante de ti.",
+        "fr": "Fait parachuter un char d'assaut militaire blindé Rhino devant vous.",
+        "de": "Lässt einen gepanzerten Militärpanzer Rhino direkt vor dir fallen.",
+        "it": "Fa piovere dal cielo un carro armato militare corazzato Rhino.",
+        "pt": "Lança um tanque militar blindado Rhino bem na sua frente.",
+        "da": "Kaster en pansret militærtank Rhino ned foran dig.",
+        "in": "Menjatuhkan tank militer lapis baja Rhino langsung di depan Anda."
+      }
+    },
+    {
+      "id": "gtaiii_all_weapons",
+      "gameId": "gta_iii",
+      "category": "Weapons & Combat",
+      "titleEn": "Unlock All Weapons (GUNSGUNSGUNS)",
+      "descriptionEn": "Grants Bat, Pistol, Uzi, Shotgun, AK-47, M16, Sniper, RPG, Flamethrower, Grenades.",
+      "titleTranslations": {
+        "ar": "فتح جميع الأسلحة (GUNSGUNSGUNS)",
+        "es": "Desbloquear Todas las Armas",
+        "pt": "Desbloquear Todas as Armas",
+        "da": "Lås Alle Våben Op (GUNSGUNSGUNS)",
+        "de": "Alle Waffen freischalten (GUNSGUNSGUNS)",
+        "fr": "Toutes les Armes (GUNSGUNSGUNS)",
+        "in": "Buka Semua Senjata (GUNSGUNSGUNS)",
+        "it": "Sblocca Tutte le Armi (GUNSGUNSGUNS)"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "R2",
+          "L1",
+          "R2",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RT",
+          "RT",
+          "LB",
+          "RT",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "GUNSGUNSGUNS",
+        "mobile": "GUNSGUNSGUNS"
+      },
+      "descriptionTranslations": {
+        "ar": "يمنح مضرباً ومسدساً ويوزي وشوزن وAK-47 وM16 وقناصة وقاذف RPG وقاذف لهب وقنابل.",
+        "es": "Otorga bate, pistola, Uzi, escopeta, AK-47, M16, rifle francotirador, RPG, lanzallamas y granadas.",
+        "fr": "Donne batte, pistolet, Uzi, fusil à pompe, AK-47, M16, sniper, RPG, lance-flammes et grenades.",
+        "de": "Gibt Baseballschläger, Pistole, Uzi, Schrotflinte, AK-47, M16, Sniper, RPG, Flammenwerfer, Granaten.",
+        "it": "Fornisce mazza, pistola, Uzi, fucile a pompa, AK-47, M16, cecchino, RPG, lanciafiamme e granate.",
+        "pt": "Concede taco, pistola, Uzi, espingarda, AK-47, M16, rifle sniper, RPG, lança-chamas e granadas.",
+        "da": "Giver bat, pistol, Uzi, haglgevær, AK-47, M16, snigskytte, RPG, flammekaster og granater.",
+        "in": "Memberikan pemukul, pistol, Uzi, shotgun, AK-47, M16, sniper, RPG, penyembur api, dan granat."
+      }
+    },
+    {
+      "id": "gtaiii_full_health",
+      "gameId": "gta_iii",
+      "category": "Player & Health",
+      "titleEn": "Full Health (GESUNDHEIT)",
+      "descriptionEn": "Restores Claude's health to 100%.",
+      "titleTranslations": {
+        "ar": "صحة كاملة (GESUNDHEIT)",
+        "es": "Salud al Máximo (GESUNDHEIT)",
+        "pt": "Vida Completa (GESUNDHEIT)",
+        "da": "Fuldt Helbred (GESUNDHEIT)",
+        "de": "Volle Gesundheit (GESUNDHEIT)",
+        "fr": "Santé Maximale (GESUNDHEIT)",
+        "in": "Kesehatan Penuh (GESUNDHEIT)",
+        "it": "Salute al Massimo (GESUNDHEIT)"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "R2",
+          "L1",
+          "R1",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "xbox": [
+          "RT",
+          "RT",
+          "LB",
+          "RB",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP",
+          "LEFT",
+          "DOWN",
+          "RIGHT",
+          "UP"
+        ],
+        "pc": "GESUNDHEIT",
+        "mobile": "GESUNDHEIT"
+      },
+      "descriptionTranslations": {
+        "ar": "يستعيد صحة كلود إلى 100% بالكامل.",
+        "es": "Restaura la salud de Claude al 100%.",
+        "fr": "Restaure la santé de Claude à 100%.",
+        "de": "Stellt Claudes Gesundheit zu 100% wieder her.",
+        "it": "Ripristina la salute di Claude al 100%.",
+        "pt": "Restaura a saúde de Claude para 100%.",
+        "da": "Gendanner Claudes helbred til 100%.",
+        "in": "Memulihkan kesehatan Claude hingga 100%."
+      }
+    },
+    {
+      "id": "gtaiii_spawn_rhino",
+      "gameId": "gta_iii",
+      "category": "Vehicles",
+      "titleEn": "Spawn Rhino Tank (GIVEUSATANK)",
+      "descriptionEn": "Spawns a military Rhino tank.",
+      "titleTranslations": {
+        "ar": "استدعاء دبابة Rhino",
+        "es": "Aparecer Tanque Rhino",
+        "pt": "Gerar Tanque Rhino",
+        "da": "Spawn Rhino Kampvogn (GIVEUSATANK)",
+        "de": "Rhino-Panzer spawnen (GIVEUSATANK)",
+        "fr": "Char Rhino (GIVEUSATANK)",
+        "in": "Munculkan Tank Rhino (GIVEUSATANK)",
+        "it": "Carro Armato Rhino (GIVEUSATANK)"
+      },
+      "previewImageUrl": "asset://tank",
+      "vehicleStats": {
+        "vehicleClass": "Heavy Tank",
+        "speed": 58,
+        "armor": 100,
+        "handling": 60,
+        "weaponry": "Main Tank Cannon",
+        "seats": 1,
+        "archetype": "tank"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "CIRCLE",
+          "R1",
+          "L2",
+          "L1",
+          "TRIANGLE",
+          "CIRCLE",
+          "TRIANGLE"
+        ],
+        "xbox": [
+          "B",
+          "B",
+          "B",
+          "B",
+          "B",
+          "B",
+          "RB",
+          "LT",
+          "LB",
+          "Y",
+          "B",
+          "Y"
+        ],
+        "pc": "GIVEUSATANK",
+        "mobile": "GIVEUSATANK"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن دبابة راينو العسكرية القوية في شوارع ليبرتي سيتي.",
+        "es": "Genera un poderoso tanque militar Rhino en Liberty City.",
+        "fr": "Fait apparaître un puissant char militaire Rhino dans Liberty City.",
+        "de": "Spawnt einen schweren Militärpanzer Rhino in Liberty City.",
+        "it": "Genera un potente carro armato militare Rhino a Liberty City.",
+        "pt": "Gera um poderoso tanque militar Rhino em Liberty City.",
+        "da": "Spawner en mægtig militærtank Rhino i Liberty City.",
+        "in": "Memunculkan tank militer tangguh Rhino di Liberty City."
+      }
+    },
+    {
+      "id": "gtalcs_weapons_1",
+      "gameId": "gta_lcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 1",
+      "descriptionEn": "Brass Knuckles, Knife, Molotov Cocktails, 9mm Pistol, Shotgun, Tec-9, AK47, Flamethrower, Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 1",
+        "es": "Pack de Armas 1",
+        "pt": "Pacote de Armas 1",
+        "da": "Våbensæt 1",
+        "de": "Waffenset 1",
+        "fr": "Pack d’Armes 1",
+        "in": "Paket Senjata 1",
+        "it": "Set Armi 1"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "SQUARE",
+          "SQUARE",
+          "DOWN",
+          "LEFT",
+          "SQUARE",
+          "SQUARE",
+          "RIGHT"
+        ],
+        "mobile": "UP, SQUARE, SQUARE, DOWN, LEFT, SQUARE, SQUARE, RIGHT"
+      },
+      "descriptionTranslations": {
+        "ar": "قبضة حديدية وسكين ومولوتوف ومسدس 9 ملم وشوزن وTec-9 وAK47 وقاذف لهب وقناصة.",
+        "es": "Puño americano, cuchillo, cócteles molotov, pistola 9mm, escopeta, Tec-9, AK47, lanzallamas y francotirador.",
+        "fr": "Poing américain, couteau, molotovs, pistolet 9mm, fusil à pompe, Tec-9, AK47, lance-flammes et sniper.",
+        "de": "Schlagring, Messer, Molotows, 9mm Pistole, Schrotflinte, Tec-9, AK47, Flammenwerfer, Scharfschützengewehr.",
+        "it": "Tirapugni, coltello, molotov, pistola 9mm, fucile a pompa, Tec-9, AK47, lanciafiamme e cecchino.",
+        "pt": "Soco-inglês, faca, coquetéis molotov, pistola 9mm, espingarda, Tec-9, AK47, lança-chamas e rifle sniper.",
+        "da": "Knojern, kniv, molotovcocktails, 9mm pistol, haglgevær, Tec-9, AK47, flammekaster og snigskytte.",
+        "in": "Knuckle, pisau, molotov, pistol 9mm, shotgun, Tec-9, AK47, penyembur api, dan senapan runduk."
+      }
+    },
+    {
+      "id": "gtalcs_weapons_2",
+      "gameId": "gta_lcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 2",
+      "descriptionEn": "Katana, Remote Grenades, .357 Revolver, Sawn-off Shotgun, Uzi, M4, Rocket Launcher, Laser Sighted Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 2",
+        "es": "Pack de Armas 2",
+        "pt": "Pacote de Armas 2",
+        "da": "Våbensæt 2",
+        "de": "Waffenset 2",
+        "fr": "Pack d’Armes 2",
+        "in": "Paket Senjata 2",
+        "it": "Set Armi 2"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "CIRCLE",
+          "CIRCLE",
+          "DOWN",
+          "LEFT",
+          "CIRCLE",
+          "CIRCLE",
+          "RIGHT"
+        ],
+        "mobile": "UP, CIRCLE, CIRCLE, DOWN, LEFT, CIRCLE, CIRCLE, RIGHT"
+      },
+      "descriptionTranslations": {
+        "ar": "سيف كاتانا وقنابل موقوتة ومسدس ريفولفر .357 وشوزن قصير ويوزي وM4 وقاذف صواريخ وقناصة ليزر.",
+        "es": "Katana, granadas remotas, revólver .357, escopeta recortada, Uzi, M4, lanzacohetes y francotirador láser.",
+        "fr": "Katana, grenades télécommandées, revolver .357, fusil à canon scié, Uzi, M4, lance-roquettes, sniper laser.",
+        "de": "Katana, Fernzünd-Granaten, .357 Revolver, abgesägte Schrotflinte, Uzi, M4, Raketenwerfer, Laser-Sniper.",
+        "it": "Katana, granate a distanza, revolver .357, fucile a canne mozze, Uzi, M4, lanciarazzi e cecchino laser.",
+        "pt": "Katana, granadas remotas, revólver .357, espingarda serrada, Uzi, M4, lança-foguetes e sniper laser.",
+        "da": "Katana, fjernudløste granater, .357 revolver, afsavet haglgevær, Uzi, M4, raketkaster og lasersnigskytte.",
+        "in": "Katana, granat jarak jauh, revolver .357, shotgun gergaji, Uzi, M4, peluncur roket, dan sniper laser."
+      }
+    },
+    {
+      "id": "gtalcs_weapons_3",
+      "gameId": "gta_lcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 3",
+      "descriptionEn": "Chainsaw, Grenades, .357 Revolver, Combat Shotgun, SMG, M4, Minigun, Laser Sighted Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 3",
+        "es": "Pack de Armas 3",
+        "pt": "Pacote de Armas 3",
+        "da": "Våbensæt 3",
+        "de": "Waffenset 3",
+        "fr": "Pack d’Armes 3",
+        "in": "Paket Senjata 3",
+        "it": "Set Armi 3"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "UP",
+          "CROSS",
+          "CROSS",
+          "DOWN",
+          "LEFT",
+          "CROSS",
+          "CROSS",
+          "RIGHT"
+        ],
+        "mobile": "UP, CROSS, CROSS, DOWN, LEFT, CROSS, CROSS, RIGHT"
+      },
+      "descriptionTranslations": {
+        "ar": "منشار كهربائي وقنابل ومسدس ريفولفر .357 وشوزن قتالي ورشاش SMG وبندقية M4 وميني غان وقناصة ليزر.",
+        "es": "Motosierra, granadas, revólver .357, escopeta de combate, subfusil, M4, minigun y rifle francotirador láser.",
+        "fr": "Tronçonneuse, grenades, revolver .357, fusil de combat, mitraillette, M4, minigun et sniper laser.",
+        "de": "Kettensäge, Granaten, .357 Revolver, Kampfschrotflinte, SMG, M4, Minigun und Laser-Scharfschützengewehr.",
+        "it": "Motosega, granate, revolver .357, fucile da combattimento, mitra, M4, minigun e cecchino laser.",
+        "pt": "Motosserra, granadas, revólver .357, espingarda de combate, SMG, M4, minigun e rifle sniper com mira laser.",
+        "da": "Motorsav, granater, .357 revolver, kamphaglgevær, SMG, M4, minigun og lasersnigskytteriffel.",
+        "in": "Gergaji mesin, granat, revolver .357, shotgun tempur, SMG, M4, minigun, dan senapan runduk laser."
+      }
+    },
+    {
+      "id": "gtalcs_pedestrians_weapons",
+      "gameId": "gta_lcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Pedestrians Have Weapons",
+      "descriptionEn": "All Liberty City pedestrians carry firearms.",
+      "titleTranslations": {
+        "ar": "المشاة يحملون أسلحة",
+        "es": "Los Peatones Tienen Armas",
+        "pt": "Pedestres Têm Armas",
+        "da": "Fodgængere Har Våben",
+        "de": "Passanten tragen Waffen",
+        "fr": "Piétons Armés",
+        "in": "Pejalan Kaki Bersenjata",
+        "it": "Pedoni Armati"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R2",
+          "R1",
+          "TRIANGLE",
+          "CROSS",
+          "L2",
+          "L1",
+          "UP",
+          "DOWN"
+        ],
+        "mobile": "R2, R1, TRIANGLE, CROSS, L2, L1, UP, DOWN"
+      },
+      "descriptionTranslations": {
+        "ar": "جميع المشاة في ليبرتي سيتي يحملون أسلحة نارية خطيرة.",
+        "es": "Todos los peatones de Liberty City llevan armas de fuego.",
+        "fr": "Tous les piétons de Liberty City portent des armes à feu.",
+        "de": "Alle Fußgänger in Liberty City tragen Schusswaffen.",
+        "it": "Tutti i pedoni di Liberty City portano armi da fuoco.",
+        "pt": "Todos os pedestres de Liberty City carregam armas de fogo.",
+        "da": "Alle fodgængere i Liberty City bærer skydevåben.",
+        "in": "Semua pejalan kaki di Liberty City membawa senjata api."
+      }
+    },
+    {
+      "id": "gtalcs_spawn_rhino",
+      "gameId": "gta_lcs",
+      "category": "Vehicles",
+      "titleEn": "Spawn Rhino Tank",
+      "descriptionEn": "Spawns a military Rhino tank in Liberty City Stories.",
+      "titleTranslations": {
+        "ar": "استدعاء دبابة Rhino",
+        "es": "Aparecer Tanque Rhino",
+        "pt": "Gerar Tanque Rhino",
+        "da": "Spawn Rhino Kampvogn",
+        "de": "Rhino-Panzer spawnen",
+        "fr": "Faire apparaître le Char Rhino",
+        "in": "Munculkan Tank Rhino",
+        "it": "Genera Carro Armato Rhino"
+      },
+      "previewImageUrl": "asset://tank",
+      "vehicleStats": {
+        "vehicleClass": "Battle Tank",
+        "speed": 60,
+        "armor": 100,
+        "handling": 63,
+        "weaponry": "Turret Cannon",
+        "seats": 1,
+        "archetype": "tank"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "L1",
+          "L1",
+          "LEFT",
+          "L1",
+          "L1",
+          "RIGHT",
+          "TRIANGLE",
+          "CIRCLE"
+        ],
+        "mobile": "L1, L1, LEFT, L1, L1, RIGHT, TRIANGLE, CIRCLE"
+      },
+      "descriptionTranslations": {
+        "ar": "يرسبن دبابة راينو العسكرية المدرعة في ليبرتي سيتي ستوريز.",
+        "es": "Genera un tanque militar Rhino en Liberty City Stories.",
+        "fr": "Fait apparaître un char militaire Rhino dans Liberty City Stories.",
+        "de": "Spawnt einen Militärpanzer Rhino in Liberty City Stories.",
+        "it": "Genera un carro armato militare Rhino in Liberty City Stories.",
+        "pt": "Gera um tanque militar Rhino em Liberty City Stories.",
+        "da": "Spawner en militærtank Rhino i Liberty City Stories.",
+        "in": "Memunculkan tank militer Rhino di Liberty City Stories."
+      }
+    },
+    {
+      "id": "gtavcs_weapons_1",
+      "gameId": "gta_vcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 1",
+      "descriptionEn": "Brass Knuckles, Knife, Molotov Cocktails, 9mm Pistol, Shotgun, Tec-9, AK47, Flamethrower, Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 1",
+        "es": "Pack de Armas 1",
+        "pt": "Pacote de Armas 1",
+        "da": "Våbensæt 1",
+        "de": "Waffenset 1",
+        "fr": "Pack d’Armes 1",
+        "in": "Paket Senjata 1",
+        "it": "Set Armi 1"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "RIGHT",
+          "CROSS",
+          "UP",
+          "DOWN",
+          "SQUARE",
+          "LEFT",
+          "RIGHT"
+        ]
+      },
+      "descriptionTranslations": {
+        "ar": "قبضة حديدية وسكين ومولوتوف ومسدس 9 ملم وشوزن وTec-9 وAK47 وقاذف لهب وقناصة.",
+        "es": "Puño americano, cuchillo, cócteles molotov, pistola 9mm, escopeta, Tec-9, AK47, lanzallamas y francotirador.",
+        "fr": "Poing américain, couteau, molotovs, pistolet 9mm, fusil à pompe, Tec-9, AK47, lance-flammes et sniper.",
+        "de": "Schlagring, Messer, Molotows, 9mm Pistole, Schrotflinte, Tec-9, AK47, Flammenwerfer, Scharfschützengewehr.",
+        "it": "Tirapugni, coltello, molotov, pistola 9mm, fucile a pompa, Tec-9, AK47, lanciafiamme e cecchino.",
+        "pt": "Soco-inglês, faca, coquetéis molotov, pistola 9mm, espingarda, Tec-9, AK47, lança-chamas e rifle sniper.",
+        "da": "Knojern, kniv, molotovcocktails, 9mm pistol, haglgevær, Tec-9, AK47, flammekaster og snigskytte.",
+        "in": "Knuckle, pisau, molotov, pistol 9mm, shotgun, Tec-9, AK47, penyembur api, dan senapan runduk."
+      }
+    },
+    {
+      "id": "gtavcs_weapons_2",
+      "gameId": "gta_vcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 2",
+      "descriptionEn": "Katana, Remote Grenades, .357 Revolver, Sawn-off Shotgun, Uzi, M4, Rocket Launcher, Laser Sighted Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 2",
+        "es": "Pack de Armas 2",
+        "pt": "Pacote de Armas 2",
+        "da": "Våbensæt 2",
+        "de": "Waffenset 2",
+        "fr": "Pack d’Armes 2",
+        "in": "Paket Senjata 2",
+        "it": "Set Armi 2"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "RIGHT",
+          "SQUARE",
+          "UP",
+          "DOWN",
+          "TRIANGLE",
+          "LEFT",
+          "RIGHT"
+        ]
+      },
+      "descriptionTranslations": {
+        "ar": "سيف كاتانا وقنابل موقوتة ومسدس ريفولفر .357 وشوزن قصير ويوزي وM4 وقاذف صواريخ وقناصة ليزر.",
+        "es": "Katana, granadas remotas, revólver .357, escopeta recortada, Uzi, M4, lanzacohetes y francotirador láser.",
+        "fr": "Katana, grenades télécommandées, revolver .357, fusil à canon scié, Uzi, M4, lance-roquettes, sniper laser.",
+        "de": "Katana, Fernzünd-Granaten, .357 Revolver, abgesägte Schrotflinte, Uzi, M4, Raketenwerfer, Laser-Sniper.",
+        "it": "Katana, granate a distanza, revolver .357, fucile a canne mozze, Uzi, M4, lanciarazzi e cecchino laser.",
+        "pt": "Katana, granadas remotas, revólver .357, espingarda serrada, Uzi, M4, lança-foguetes e sniper laser.",
+        "da": "Katana, fjernudløste granater, .357 revolver, afsavet haglgevær, Uzi, M4, raketkaster og lasersnigskytte.",
+        "in": "Katana, granat jarak jauh, revolver .357, shotgun gergaji, Uzi, M4, peluncur roket, dan sniper laser."
+      }
+    },
+    {
+      "id": "gtavcs_weapons_3",
+      "gameId": "gta_vcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapons Set 3",
+      "descriptionEn": "Chainsaw, Grenades, .357 Revolver, Combat Shotgun, SMG, M4, Minigun, Laser Sighted Sniper Rifle.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 3",
+        "es": "Pack de Armas 3",
+        "pt": "Pacote de Armas 3",
+        "da": "Våbensæt 3",
+        "de": "Waffenset 3",
+        "fr": "Pack d’Armes 3",
+        "in": "Paket Senjata 3",
+        "it": "Set Armi 3"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "LEFT",
+          "RIGHT",
+          "TRIANGLE",
+          "UP",
+          "DOWN",
+          "CIRCLE",
+          "LEFT",
+          "RIGHT"
+        ]
+      },
+      "descriptionTranslations": {
+        "ar": "منشار كهربائي وقنابل ومسدس ريفولفر .357 وشوزن قتالي ورشاش SMG وبندقية M4 وميني غان وقناصة ليزر.",
+        "es": "Motosierra, granadas, revólver .357, escopeta de combate, subfusil, M4, minigun y rifle francotirador láser.",
+        "fr": "Tronçonneuse, grenades, revolver .357, fusil de combat, mitraillette, M4, minigun et sniper laser.",
+        "de": "Kettensäge, Granaten, .357 Revolver, Kampfschrotflinte, SMG, M4, Minigun und Laser-Scharfschützengewehr.",
+        "it": "Motosega, granate, revolver .357, fucile da combattimento, mitra, M4, minigun e cecchino laser.",
+        "pt": "Motosserra, granadas, revólver .357, espingarda de combate, SMG, M4, minigun e rifle sniper com mira laser.",
+        "da": "Motorsav, granater, .357 revolver, kamphaglgevær, SMG, M4, minigun og lasersnigskytteriffel.",
+        "in": "Gergaji mesin, granat, revolver .357, shotgun tempur, SMG, M4, minigun, dan senapan runduk laser."
+      }
+    },
+    {
+      "id": "gtavcs_pedestrians_weapons",
+      "gameId": "gta_vcs",
+      "category": "Weapons & Combat",
+      "titleEn": "Pedestrians Have Weapons",
+      "descriptionEn": "Equips Vice City pedestrians with weapons.",
+      "titleTranslations": {
+        "ar": "المشاة يحملون أسلحة",
+        "es": "Los Peatones Tienen Armas",
+        "pt": "Pedestres Têm Armas",
+        "da": "Fodgængere Har Våben",
+        "de": "Passanten tragen Waffen",
+        "fr": "Piétons Armés",
+        "in": "Pejalan Kaki Bersenjata",
+        "it": "Pedoni Armati"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "L1",
+          "L1",
+          "R1",
+          "L1",
+          "L1",
+          "R1",
+          "RIGHT",
+          "CIRCLE"
+        ]
+      },
+      "descriptionTranslations": {
+        "ar": "يزود جميع المشاة في فايس سيتي بأسلحة خطيرة.",
+        "es": "Equipa a los peatones de Vice City con armas de fuego.",
+        "fr": "Équipe les piétons de Vice City avec des armes à feu.",
+        "de": "Rüstet alle Passanten in Vice City mit Schusswaffen aus.",
+        "it": "Fornisce armi da fuoco a tutti i pedoni di Vice City.",
+        "pt": "Equipa os pedestres de Vice City com armas de fogo.",
+        "da": "Udruster alle fodgængere i Vice City med våben.",
+        "in": "Membekali semua pejalan kaki di Vice City dengan senjata api."
+      }
+    },
+    {
+      "id": "gtactw_weapons_4",
+      "gameId": "gta_ctw",
+      "category": "Weapons & Combat",
+      "titleEn": "Weapon Tier 4 (Minigun & Flamethrower)",
+      "descriptionEn": "Equips Huang Lee with Dual Pistols, Minigun, Assault Rifle, and Flamethrower.",
+      "titleTranslations": {
+        "ar": "حزمة الأسلحة 4 (رشاش ثقيل وقاذف لهب)",
+        "es": "Pack de Armas 4 (Minigun y Lanzallamas)",
+        "pt": "Pacote de Armas 4 (Minigun e Lança-chamas)",
+        "da": "Våbensæt 4 (Minigun & Flammekaster)",
+        "de": "Waffenset 4 (Minigun & Flammenwerfer)",
+        "fr": "Armes Niveau 4 (Minigun & Lance-flammes)",
+        "in": "Senjata Tingkat 4 (Minigun & Penyembur Api)",
+        "it": "Set Armi 4 (Minigun e Lanciafiamme)"
+      },
+      "isFavorite": true,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "TRIANGLE",
+          "R1",
+          "TRIANGLE",
+          "L1",
+          "SQUARE",
+          "L1",
+          "SQUARE"
+        ],
+        "xbox": [
+          "RB",
+          "Y",
+          "RB",
+          "Y",
+          "LB",
+          "X",
+          "LB",
+          "X"
+        ],
+        "mobile": "LOADOA"
+      },
+      "descriptionTranslations": {
+        "ar": "يزود هوانغ لي بمسدسين مزدوجين ورشاش ميني غان وبندقية هجومية وقاذف لهب.",
+        "es": "Equipa a Huang Lee con pistolas dobles, minigun, rifle de asalto y lanzallamas.",
+        "fr": "Équipe Huang Lee de pistolets doubles, minigun, fusil d'assaut et lance-flammes.",
+        "de": "Rüstet Huang Lee mit Doppel-Pistolen, Minigun, Sturmgewehr und Flammenwerfer aus.",
+        "it": "Equipaggia Huang Lee con doppie pistole, minigun, fucile d'assalto e lanciafiamme.",
+        "pt": "Equipa Huang Lee com pistolas duplas, minigun, rifle de assalto e lança-chamas.",
+        "da": "Udruster Huang Lee med dobbelte pistoler, minigun, automatriffel og flammekaster.",
+        "in": "Membekali Huang Lee dengan pistol ganda, minigun, senapan serbu, dan penyembur api."
+      }
+    },
+    {
+      "id": "gtactw_clear_wanted",
+      "gameId": "gta_ctw",
+      "category": "Player & Health",
+      "titleEn": "Decrease Wanted Level",
+      "descriptionEn": "Drops Huang Lee's LCPD wanted heat by 1 star.",
+      "titleTranslations": {
+        "ar": "تخفيض مستوى المطاردة",
+        "es": "Bajar Nivel de Búsqueda",
+        "pt": "Diminuir Nível de Procurado",
+        "da": "Sænk Eftersøgningsniveau",
+        "de": "Fahndungslevel senken",
+        "fr": "Baisser l’Indice de Recherche",
+        "in": "Turunkan Level Buronan",
+        "it": "Abbassa Livello di Sospetto"
+      },
+      "isFavorite": false,
+      "inputs": {
+        "playstation": [
+          "R1",
+          "TRIANGLE",
+          "R1",
+          "TRIANGLE",
+          "L1",
+          "CROSS",
+          "L1",
+          "CROSS"
+        ],
+        "xbox": [
+          "RB",
+          "Y",
+          "RB",
+          "Y",
+          "LB",
+          "A",
+          "LB",
+          "A"
+        ],
+        "mobile": "COPOUT"
+      },
+      "descriptionTranslations": {
+        "ar": "يخفض مستوى مطاردة شرطة LCPD لهوانغ لي بمقدار نجمة واحدة.",
+        "es": "Reduce el nivel de búsqueda policial de LCPD para Huang Lee en 1 estrella.",
+        "fr": "Baisse le niveau de recherche de la police LCPD pour Huang Lee de 1 étoile.",
+        "de": "Senkt den LCPD-Fahndungslevel für Huang Lee um 1 Stern.",
+        "it": "Abbassa il livello di sospetto della polizia LCPD per Huang Lee di 1 stella.",
+        "pt": "Diminui o nível de procurado da polícia LCPD de Huang Lee em 1 estrela.",
+        "da": "Sænker Huang Lees LCPD-eftersøgningsniveau med 1 stjerne.",
+        "in": "Menurunkan panas buronan polisi LCPD Huang Lee sebanyak 1 bintang."
+      }
+    }
+  ]
 }
